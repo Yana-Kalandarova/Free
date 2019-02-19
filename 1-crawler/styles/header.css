@@ -1,14 +1,19 @@
 .header {
   position: sticky;
   top: 0;
-  display: flex;
-  flex-direction: column;
   flex: 0 0 auto;
   background: #fff;
 }
 
-.mob-nav_controls {
+.header-inner {
   display: flex;
+  flex-direction: column;
+}
+
+.mob-nav_controls {
+  position: relative;
+  display: flex;
+  margin: 0 -15px;
   padding: 15px;
   box-shadow: 0 1px 2px 0 rgba(0,0,0,0.25);
   z-index: 1;
@@ -89,7 +94,8 @@
 
 @media (min-width: 768px) {
   .mob-nav_controls {
-    padding: 23px 35px;
+    margin: 0 -30px;
+    padding: 23px 30px;
   }
 
   .header-nav_list-wrap {
@@ -97,7 +103,7 @@
   }
 }
 
-@media (min-width: 1180px) {
+@media (min-width: 1200px) {
   .header {
     box-shadow: 0 1px 2px 0 rgba(0,0,0,0.25);
   }
