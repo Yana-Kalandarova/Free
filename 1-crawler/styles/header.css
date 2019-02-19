@@ -3,6 +3,7 @@
   top: 0;
   flex: 0 0 auto;
   background: #fff;
+  z-index: 1;
 }
 
 .header-inner {

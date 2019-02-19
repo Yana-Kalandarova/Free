@@ -3,14 +3,380 @@
   background: #f00;
 }
 
+.main > section {
+  position: relative;
+  padding: 50px 0;
+}
+
+.main > section::after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 50px;
+  color: #f9f9f9;
+  background: transparent url('../images/light-wave.svg') repeat-x;
+  background-size: auto 50px;
+}
+
+.main > section.light {
+  color: #000;
+  background-color: #f9f9f9;
+}
+
+.main > section.dark {
+  color: #fff;
+  background-color: #0065ff;
+}
+
+.main h1 {
+  margin-bottom: 10px;
+  font-size: 18px;
+  line-height: 21px;
+  font-weight: 600;
+}
+
+.main h2 {
+  margin-bottom: 10px;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.main p {
+  margin-bottom: 5px;
+  font-size: 12px;
+  line-height: 14px;
+}
+
+.main p.description {
+  margin-bottom: 20px;
+}
+
+.grow-monetize-inner img {
+  display: none;
+}
+
+.how-it-works ul > li {
+  display: flex;
+  min-height: 170px;
+  margin-bottom: 10px;
+  padding: 15px;
+  color: #fff;
+  border-radius: 8px;
+}
+
+.how-it-works ul > li:last-child {
+  margin-bottom: 0;
+}
+
+.how-it-works ul > li > div {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: flex-end;
+}
+
+.how-it-works ul > li > div > a {
+  align-self: flex-end;
+  color: #fff;
+}
+
+.how-it-works_link {
+  font-size: 12px;
+  line-height: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.how-it-works_icon {
+  width: 10px;
+  height: 15px;
+  margin-left: 5px;
+}
+
+.how-it-works_integrate {
+  background: #0065ff;
+}
+
+.how-it-works_integrate > div {
+  background: url("../images/integrate.svg") top right no-repeat;
+  background-size: 105px 50px;
+}
+
+.how-it-works_sign {
+  background-color: #36b37e;
+}
+
+.how-it-works_sign > div {
+  background: url("../images/integrate.svg") top right no-repeat;
+  background-size: 105px 50px;
+}
+
+.how-it-works_payout {
+  background-color: #6555c0;
+}
+
+.how-it-works_payout > div {
+  background: url("../images/integrate.svg") top right no-repeat;
+  background-size: 105px 50px;
+}
+
+.web-crawler img {
+  width: 100%;
+  margin-top: 15px;
+}
+
+.benefits ul {
+  display: flex;
+  flex-direction: column;
+}
+
+.benefits ul > li {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.benefits ul > li:last-child {
+  margin-bottom: 0;
+}
+
+.benefits ul > li > div {
+  width: 130px;
+  height: 130px;
+  margin: 0 auto;
+  background: #f9f9f9;
+  border-radius: 50%;
+}
+
+.benefits ul > li img {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.benefits ul > li p {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.get-in-touch form {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px 0 rgba(0,0,0,0.3);
+}
+
+.get-in-touch form > div {
+  display: flex;
+  flex-direction: column;
+}
+
+.get-in-touch form input {
+  margin-bottom: 10px;
+  padding: 10px;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  border: 1px solid #dadce0;
+  border-radius: 4px;
+}
+
+.get-in-touch form textarea {
+  height: 112px;
+  margin-bottom: 10px;
+  padding: 10px;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  border: 1px solid #dadce0;
+  border-radius: 4px;
+}
+
+.get-in-touch form button {
+  align-self: flex-end;
+  width: auto;
+  margin-bottom: 15px;
+  padding: 10px 30px;
+  color: #fff;
+  font-size: 16px;
+  line-height: 19px;
+  background: #0065ff;
+  border: none;
+  border-radius: 4px;
+}
+
+
 @media (min-width: 768px) {
   .main {
     background: #ff0;
+  }
+
+  .main h1 {
+    margin-bottom: 15px;
+    font-size: 28px;
+    line-height: 33px;
+  }
+
+  .main p {
+    font-size: 16px;
+    line-height: 19px;
+  }
+
+  .main p.description {
+    font-size: 20px;
+    line-height: 24px;
+  }
+
+  .grow-monetize {
+    background: url("../images/grow-bg-1.svg");
+    background-size: cover;
+  }
+
+  .grow-monetize-inner {
+    display: flex;
+    align-items: center;
+  }
+
+  .grow-monetize-inner img {
+    display: block;
+    flex: 0 0 50%;
+    width: 50%;
+    height: 50%;
+  }
+
+  .how-it-works ul {
+    display: flex;
+    flex-direction: row;
+    overflow-x: auto;
+  }
+
+  .how-it-works ul > li {
+    display: flex;
+    flex: 1 1 300px;
+    min-height: 170px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+  }
+
+  .how-it-works ul > li:last-child {
+    margin-right: 0;
+  }
+
+  .how-it-works ul > li > div > p {
+    font-size: 12px;
+    line-height: 14px;
+  }
+
+  .how-it-works_icon {
+    margin-left: 10px;
+  }
+
+  .web-crawler img {
+    display: block;
+    width: auto;
+    margin: 0 auto;
+  }
+
+  .benefits ul {
+    flex-direction: row;
+  }
+
+  .benefits ul > li {
+    flex: 1 1 100px;
+    margin: 0 20px 0 0;
+  }
+
+  .benefits ul > li:last-child {
+    margin-right: 0;
+  }
+
+  .benefits ul > li p {
+    width: auto;
+  }
+
+  .get-in-touch form {
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,0.3);
+  }
+
+  .get-in-touch form > div {
+    flex-direction: row;
+  }
+
+  .get-in-touch form input {
+    flex: 1 1 50%;
+    margin-bottom: 20px;
+    padding: 20px;
+    font-size: 18px;
+    line-height: 21px;
+  }
+
+  .get-in-touch form input:nth-child(odd) {
+    margin-right: 20px;
+  }
+
+  .get-in-touch form textarea {
+    flex-basis: 100%;
+    height: 160px;
+    margin-bottom: 20px;
+    padding: 20px;
+    font-size: 18px;
+    line-height: 21px;
+  }
+
+  .get-in-touch form button {
+    margin-bottom: 0;
+    padding: 10px 40px;
+    font-size: 18px;
+    line-height: 21px;
   }
 }
 
 @media (min-width: 1200px) {
   .main {
     background: #0f0;
+  }
+
+  .main h1 {
+    font-size: 44px;
+    line-height: 53px;
+  }
+
+  .main p {
+    font-size: 18px;
+    line-height: 21px;
+  }
+
+  .main p.description {
+    font-size: 26px;
+    line-height: 30px;
+    margin-bottom: 30px;
+  }
+
+  .how-it-works ul > li {
+    display: flex;
+    min-height: 170px;
+    margin-bottom: 0;
+    padding: 15px;
+    color: #fff;
+    border-radius: 8px;
+  }
+
+  .how-it-works_link {
+    font-size: 16px;
+    line-height: 19px;
+  }
+
+  .how-it-works_icon {
+    margin-left: 15px;
+  }
+
+  .get-in-touch form {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 60px;
+    border-radius: 20px;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,0.3);
   }
 }
