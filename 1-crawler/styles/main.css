@@ -1,0 +1,16 @@
+.main {
+  flex-grow: 1;
+  background: #f00;
+}
+
+@media (min-width: 768px) {
+  .main {
+    background: #ff0;
+  }
+}
+
+@media (min-width: 1180px) {
+  .main {
+    background: #0f0;
+  }
+}

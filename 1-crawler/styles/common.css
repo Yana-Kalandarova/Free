@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  font-family: 'Work Sans', sans-serif;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.hide {
+  display: none !important;
+}
+
+.non-scroll {
+  position: fixed;
+  width: 100%;
+  overflow: hidden;
+  background-attachment: fixed;
+}
+
+@media (min-width: 1180px) {
+  .container {
+    width: 100%;
+    max-width: 1180px;
+    margin: 0 auto;
+  }
+}

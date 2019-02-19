@@ -1,0 +1,136 @@
+.header {
+  position: sticky;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  flex: 0 0 auto;
+  background: #fff;
+}
+
+.mob-nav_controls {
+  display: flex;
+  padding: 15px;
+  box-shadow: 0 1px 2px 0 rgba(0,0,0,0.25);
+  z-index: 1;
+}
+
+.mob-nav_btn {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  margin-right: 24px;
+  padding: 0;
+}
+
+.mob-nav_icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.mob-nav_title {
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.header-nav_list-wrap {
+  position: fixed;
+  top: 54px; /* header height */
+  right: 0;
+  bottom: 0;
+  left: -260px;
+  display: flex;
+  transition: all 0.3s ease;
+}
+
+.header-nav_list-wrap.open {
+  left: 0;
+}
+
+.header-nav_list {
+  display: flex;
+  flex-direction: column;
+  flex: 0 0 250px;
+  background: #fff;
+  overflow-y: auto;
+}
+
+.header-nav_logo {
+  margin-bottom: 10px;
+  padding: 15px;
+  background: #f0f1f3;
+}
+
+.header-nav_list > ul {
+  display: flex;
+  flex-direction: column;
+}
+
+.header-nav_list > ul > li > a {
+  display: block;
+  padding: 15px;
+  color: #000;
+  font-size: 12px;
+  line-height: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.header-nav_list > ul > li > a:hover {
+  background: #f0f1f3;
+}
+
+.mob-nav_overlay {
+  flex-grow: 1;
+  background: #000;
+  opacity: 0.5;
+}
+
+@media (min-width: 768px) {
+  .mob-nav_controls {
+    padding: 23px 35px;
+  }
+
+  .header-nav_list-wrap {
+    top: 70px; /* header height */
+  }
+}
+
+@media (min-width: 1180px) {
+  .header {
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,0.25);
+  }
+
+  .mob-nav_controls {
+    display: none;
+  }
+
+  .header-nav_list-wrap {
+    position: static;
+  }
+
+  .header-nav_logo {
+    margin-bottom: 0;
+    padding: 27px 15px;
+    background: transparent;
+  }
+
+  .header-nav_list {
+    flex-direction: row;
+    flex-grow: 1;
+    justify-content: space-between;
+  }
+
+  .header-nav_list > ul {
+    flex-direction: row;
+  }
+
+  .header-nav_list > ul > li > a {
+    padding: 27px 15px;
+  }
+
+  .mob-nav_overlay {
+    display: none;
+  }
+}
