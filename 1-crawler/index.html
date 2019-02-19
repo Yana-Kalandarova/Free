@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Crawler</title>
+  <link rel="stylesheet" href="styles/reset.css">
   <link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
@@ -11,18 +12,22 @@
     <div class="header-inner container">
       <div class="mob-nav_controls">
         <button class="mob-nav_btn js-mob-nav-btn">
-          <svg viewBox="0 0 24 24" class="mob-nav_icon mob-nav_open fade-in">
-            <use xlink:href="./images/sprite.svg#test"></use>
+          <svg class="mob-nav_icon mob-nav_open">
+            <use href="./images/sprite.svg#menu-icon"></use>
           </svg>
-          <svg viewBox="0 0 24 24" class="mob-nav_icon mob-nav_close fade-out">
-            <use xlink:href="./images/sprite.svg#close"></use>
+          <svg class="mob-nav_icon mob-nav_close">
+            <use href="./images/sprite.svg#close-icon"></use>
           </svg>
         </button>
         <h2 class="mob-nav_title">Menu</h2>
       </div>
       <div class="header-nav_list-wrap js-mob-nav">
         <nav class="header-nav_list">
-          <a class="header-nav_logo" href="#">Logo img</a>
+          <a class="header-nav_logo" href="#">
+            <svg>
+              <use href="./images/sprite.svg#logo-icon"></use>
+            </svg>
+          </a>
           <ul>
             <li><a href="#how-it-works">How it works </a></li>
             <li><a href="#web-crawler">Web Crawler</a></li>
@@ -52,19 +57,19 @@
           <div>
             <h2>Integrate SDK</h2>
             <p>Integrate Monetization SDK into your project</p>
-            <a href="">Read more</a></div>
+            <a href="#">Read more</a></div>
         </li>
         <li>
           <div>
             <h2>Sign up</h2>
             <p>Sign up in Developer Console for SDK and register your app there</p>
-            <a href="">Read more</a></div>
+            <a href="#">Read more</a></div>
         </li>
         <li>
           <div>
             <h2>Get payouts</h2>
             <p>Initiate payouts after monetization has been turned on</p>
-            <a href="">Read more</a></div>
+            <a href="#">Read more</a></div>
         </li>
       </ul>
     </section>
@@ -75,7 +80,7 @@
       <div>
         <ul>
           <li>
-            <a href="">
+            <a href="#">
               <h2>Use Cases</h2>
             </a>
             <div>
@@ -85,7 +90,7 @@
             </div>
           </li>
           <li>
-            <a href="">Our Monitization Service</a>
+            <a href="#">Our Monitization Service</a>
             <div>
               <h3>?????????????????????????</h3>
               <p>?????????????????????????</p>
@@ -130,34 +135,86 @@
     </section>-->
   </main>
   <footer class="footer">
-    <div>
-      <a href="#">Logo Img</a>
-      <nav>
-        <ul>
-          <li><a href="#how-it-works">How it works </a></li>
-          <li><a href="#web-crawler">Web Crawler</a></li>
-          <li><a href="#benefits">Benefits</a></li>
-          <li><a href="#sdk-console">SDK Console</a></li>
-          <li><a href="#faq">F.A.Q.</a></li>
-          <li><a href="#support">Support</a></li>
-        </ul>
-      </nav>
-      <ul>
-        <li><a href="">1234-456-7890</a></li>
-        <li><a href="">hailey.rowe@yahoo.com</a></li>
+    <div class="footer-inner container">
+      <div class="footer-nav_list-wrap">
+        <nav class="footer-nav_list">
+          <a class="footer-nav_logo" href="#">
+            <svg class="footer-contacts_icon">
+              <use href="./images/sprite.svg#logo-icon"></use>
+            </svg>
+          </a>
+          <ul>
+            <li><a href="#how-it-works">How it works </a></li>
+            <li><a href="#web-crawler">Web Crawler</a></li>
+            <li><a href="#benefits">Benefits</a></li>
+            <li><a href="#sdk-console">SDK Console</a></li>
+          </ul>
+          <ul>
+            <li><a href="#faq">F.A.Q.</a></li>
+            <li><a href="#support">Support</a></li>
+            <li><a href="#about-us">About Us</a></li>
+          </ul>
+        </nav>
+        <div class="footer-contacts">
+          <ul>
+            <li>
+              <a href="#">
+                <span>
+                  <svg class="footer-contacts_icon">
+                    <use href="./images/sprite.svg#menu-icon"></use>
+                  </svg>
+                </span>
+                <span class="footer-contacts_content">1234-456-7890</span>
+              </a>
+            </li>
+            <li>
+              <a href="mailto: hailey.rowe@yahoo.com">
+                <span>
+                  <svg class="footer-contacts_icon">
+                    <use href="./images/sprite.svg#menu-icon"></use>
+                  </svg>
+                </span>
+                <span class="footer-contacts_content">hailey.rowe@yahoo.com</span>
+              </a>
+            </li>
+          </ul>
+          <address>
+            <span>
+                <svg class="footer-contacts_icon">
+                  <use href="./images/sprite.svg#menu-icon"></use>
+                </svg>
+              </span>
+            <span class="footer-contacts_address">
+              <span class="footer-contacts_content">San Francisco. CA 24158</span>
+              <span class="footer-contacts_info">500 Terry Francois Street</span>
+            </span>
+          </address>
+        </div>
+      </div>
+      <ul class="footer-share_list">
+        <li>
+          <a href="#">
+            <svg class="footer-share_icon">
+              <use href="./images/sprite.svg#twitter-icon"></use>
+            </svg>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <svg class="footer-share_icon">
+              <use href="./images/sprite.svg#instagram-icon"></use>
+            </svg>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <svg class="footer-share_icon">
+              <use href="./images/sprite.svg#facebook-icon"></use>
+            </svg>
+          </a>
+        </li>
       </ul>
-      <address>
-        <p>San Francisco. CA 24158</p>
-        <p>500 Terry Francois Street</p>
-      </address>
-    </div>
-    <div>
-      <ul>
-        <li><a href="">tw</a></li>
-        <li><a href="">in</a></li>
-        <li><a href="">f</a></li>
-      </ul>
-      <div>2019 &copy; Company name All Right Reserved</div>
+      <div class="copyright">2019 &copy; Company name All Right Reserved</div>
     </div>
   </footer>
   <script src="./script.js"></script>

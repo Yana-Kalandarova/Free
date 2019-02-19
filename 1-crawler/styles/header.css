@@ -25,12 +25,16 @@
   height: 24px;
   margin-right: 24px;
   padding: 0;
+  border: none;
+  background: transparent;
 }
 
 .mob-nav_icon {
   position: absolute;
   top: 0;
   left: 0;
+  width: 24px;
+  height: 24px;
 }
 
 .mob-nav_title {
@@ -41,7 +45,6 @@
 .header-nav_list-wrap {
   position: fixed;
   top: 54px; /* header height */
-  right: 0;
   bottom: 0;
   left: -260px;
   display: flex;
@@ -50,6 +53,7 @@
 
 .header-nav_list-wrap.open {
   left: 0;
+  right: 0;
 }
 
 .header-nav_list {
@@ -74,11 +78,9 @@
 .header-nav_list > ul > li > a {
   display: block;
   padding: 15px;
-  color: #000;
   font-size: 12px;
   line-height: 14px;
   font-weight: 600;
-  text-decoration: none;
   text-transform: uppercase;
 }
 
@@ -101,6 +103,12 @@
   .header-nav_list-wrap {
     top: 70px; /* header height */
   }
+
+  .header-nav_logo svg {
+    width: 25px;
+    height: 25px;
+    border: 1px solid red;
+  }
 }
 
 @media (min-width: 1200px) {
@@ -117,9 +125,16 @@
   }
 
   .header-nav_logo {
+    align-self: center;
     margin-bottom: 0;
-    padding: 27px 15px;
+    padding: 0;
     background: transparent;
+  }
+
+  .header-nav_logo svg {
+    width: 36px;
+    height: 36px;
+    border: 1px solid red;
   }
 
   .header-nav_list {
