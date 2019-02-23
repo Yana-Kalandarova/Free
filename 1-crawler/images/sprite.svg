@@ -1,23 +1,35 @@
-<svg width="100" height="100">
-  <symbol viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" id="menu-icon">
-    <path fill="currentColor" d="M4 10h24a2 2 0 0 0 0-4H4a2 2 0 0 0 0 4zm24 4H4a2 2 0 0 0 0 4h24a2 2 0 0 0 0-4zm0 8H4a2 2 0 0 0 0 4h24a2 2 0 0 0 0-4z"></path>
+<svg>
+  <symbol viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg" id="menu-icon">
+    <path fill="currentColor" d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"/>
   </symbol>
-  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 357 357" id="close-icon">
-    <path fill="currentColor" d="M357 35.7L321.3 0 178.5 142.8 35.7 0 0 35.7l142.8 142.8L0 321.3 35.7 357l142.8-142.8L321.3 357l35.7-35.7-142.8-142.8z"></path>
+  <symbol viewBox="0 0 352 512" xmlns="http://www.w3.org/2000/svg" id="close-icon">
+    <path fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"/>
   </symbol>
-  <symbol viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" id="phone-icon">
-    <path fill="currentColor" d="M4 10h24a2 2 0 0 0 0-4H4a2 2 0 0 0 0 4zm24 4H4a2 2 0 0 0 0 4h24a2 2 0 0 0 0-4zm0 8H4a2 2 0 0 0 0 4h24a2 2 0 0 0 0-4z"></path>
+  <symbol viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" id="phone-icon">
+    <path fill="currentColor" fill-rule="evenodd" d="M3.62 7.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V17c0 .55-.45 1-1 1C7.61 18 0 10.39 0 1c0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/>
   </symbol>
-  <symbol viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" id="email-icon">
-    <path fill="currentColor" d="M4 10h24a2 2 0 0 0 0-4H4a2 2 0 0 0 0 4zm24 4H4a2 2 0 0 0 0 4h24a2 2 0 0 0 0-4zm0 8H4a2 2 0 0 0 0 4h24a2 2 0 0 0 0-4z"></path>
+  <symbol viewBox="0 0 20 16" xmlns="http://www.w3.org/2000/svg" id="email-icon">
+    <path  fill="currentColor" fill-rule="nonzero" d="M18 0H2C.9 0 .01.9.01 2L0 14c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V2c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V2l8 5 8-5v2z"/>
   </symbol>
-  <symbol viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" id="twitter-icon">
-    <path fill="currentColor" d="M4 10h24a2 2 0 0 0 0-4H4a2 2 0 0 0 0 4zm24 4H4a2 2 0 0 0 0 4h24a2 2 0 0 0 0-4zm0 8H4a2 2 0 0 0 0 4h24a2 2 0 0 0 0-4z"></path>
+  <symbol viewBox="0 0 19 21" xmlns="http://www.w3.org/2000/svg" id="address-icon">
+    <path  fill="currentColor" fill-rule="nonzero" d="M2 9v7h3V9H2zm6 0v7h3V9H8zM0 21h19v-3H0v3zM14 9v7h3V9h-3zM9.5 0L0 5v2h19V5L9.5 0z"/>
   </symbol>
-  <symbol viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" id="instagram-icon">
-    <path fill="currentColor" d="M4 10h24a2 2 0 0 0 0-4H4a2 2 0 0 0 0 4zm24 4H4a2 2 0 0 0 0 4h24a2 2 0 0 0 0-4zm0 8H4a2 2 0 0 0 0 4h24a2 2 0 0 0 0-4z"></path>
+  <symbol viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" id="twitter-icon">
+    <path fill="currentColor" fill-rule="nonzero" d="M11.916 0C5.346 0 0 5.346 0 11.916s5.346 11.917 11.916 11.917 11.917-5.346 11.917-11.917C23.833 5.346 18.488 0 11.916 0zm5.316 9.19c.006.117.009.236.009.355 0 3.625-2.758 7.803-7.805 7.803a7.758 7.758 0 0 1-4.204-1.232 5.505 5.505 0 0 0 4.06-1.136 2.745 2.745 0 0 1-2.561-1.904 2.765 2.765 0 0 0 1.238-.046 2.743 2.743 0 0 1-2.2-2.69v-.034c.37.205.793.328 1.242.342a2.74 2.74 0 0 1-.848-3.662 7.788 7.788 0 0 0 5.653 2.867 2.743 2.743 0 0 1 4.674-2.502 5.475 5.475 0 0 0 1.742-.666 2.755 2.755 0 0 1-1.208 1.518A5.453 5.453 0 0 0 18.6 7.77a5.517 5.517 0 0 1-1.368 1.418z"></path>
   </symbol>
-  <symbol viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" id="facebook-icon">
-     <path fill="currentColor" d="M4 10h24a2 2 0 0 0 0-4H4a2 2 0 0 0 0 4zm24 4H4a2 2 0 0 0 0 4h24a2 2 0 0 0 0-4zm0 8H4a2 2 0 0 0 0 4h24a2 2 0 0 0 0-4z"></path>
+  <symbol viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" id="linkedin-icon">
+    <g fill="none" fill-rule="evenodd">
+      <ellipse fill="currentColor" cx="11.915" cy="12.02" rx="11.915" ry="11.81"/>
+      <path d="M19.033 12.97v4.87h-2.847v-4.543c0-1.14-.412-1.92-1.443-1.92-.787 0-1.254.525-1.46 1.033-.076.181-.095.433-.095.688v4.742H10.34s.038-7.694 0-8.49h2.848v1.202c-.005.01-.013.02-.019.028h.02v-.028c.378-.577 1.053-1.402 2.566-1.402 1.874 0 3.278 1.213 3.278 3.82zM7.361 5.258c-.975 0-1.612.634-1.612 1.466 0 .816.619 1.468 1.574 1.468h.019c.993 0 1.61-.652 1.61-1.468-.018-.832-.617-1.466-1.591-1.466zM5.918 17.84h2.847V9.35H5.918v8.49z" fill="#F1F2F2" fill-rule="nonzero"/>
+    </g>
+  </symbol>
+  <symbol viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" id="facebook-icon">
+    <g fill="none" fill-rule="evenodd">
+      <circle fill="currentColor" cx="11.915" cy="11.915" r="11.915"/>
+      <path d="M14.91 12.381h-2.126v7.789H9.563V12.38H8.03V9.644h1.532V7.872c0-1.266.602-3.25 3.25-3.25l2.386.01V7.29h-1.732c-.284 0-.683.142-.683.746v1.611h2.407l-.281 2.735z" fill="#FFF"/>
+    </g>
+  </symbol>
+  <symbol viewBox="0 0 9 15" xmlns="http://www.w3.org/2000/svg" id="arrow-icon">
+    <path fill="currentColor" fill-rule="evenodd" d="M.618 12.355L5.463 7.5.618 2.645A1.246 1.246 0 1 1 2.38.882L9 7.5l-6.619 6.619a1.248 1.248 0 0 1-1.763-1.763z"></path>
   </symbol>
 </svg>

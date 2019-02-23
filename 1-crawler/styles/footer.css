@@ -91,7 +91,6 @@
   .footer-nav_logo svg {
     width: 36px;
     height: 36px;
-    border: 1px solid red;
   }
 
   .footer-contacts {
@@ -150,8 +149,7 @@
   .footer-share_icon {
     width: 15px;
     height: 15px;
-    color: transparent;
-    border: 1px solid red;
+    color: #000;
   }
 
   .copyright {

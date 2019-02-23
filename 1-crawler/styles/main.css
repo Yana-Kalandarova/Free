@@ -1,32 +1,19 @@
 .main {
   flex-grow: 1;
-  background: #f00;
+  background-color: #f9f9f9;
 }
 
 .main > section {
   position: relative;
-  padding: 50px 0;
-}
-
-.main > section::after {
-  content: "";
-  position: absolute;
-  display: block;
-  width: 100%;
-  height: 50px;
-  color: #f9f9f9;
-  background: transparent url('../images/light-wave.svg') repeat-x;
-  background-size: auto 50px;
+  padding: 50px 0 50px;
 }
 
 .main > section.light {
   color: #000;
-  background-color: #f9f9f9;
 }
 
 .main > section.dark {
   color: #fff;
-  background-color: #0065ff;
 }
 
 .main h1 {
@@ -50,6 +37,12 @@
 
 .main p.description {
   margin-bottom: 20px;
+}
+
+.grow-monetize {
+  background-image: url("../images/grow-monize-bg-mobile.svg");
+  background-repeat: repeat-x;
+  background-size: auto 100%;
 }
 
 .grow-monetize-inner img {
@@ -99,8 +92,8 @@
 }
 
 .how-it-works_integrate > div {
-  background: url("../images/integrate.svg") top right no-repeat;
-  background-size: 105px 50px;
+  background: url("../images/integration-sdk-img.png") top right no-repeat;
+  background-size: auto 50%;
 }
 
 .how-it-works_sign {
@@ -108,8 +101,8 @@
 }
 
 .how-it-works_sign > div {
-  background: url("../images/integrate.svg") top right no-repeat;
-  background-size: 105px 50px;
+  background: url("../images/sign-up.png") top right no-repeat;
+  background-size: auto 50%;
 }
 
 .how-it-works_payout {
@@ -117,13 +110,17 @@
 }
 
 .how-it-works_payout > div {
-  background: url("../images/integrate.svg") top right no-repeat;
-  background-size: 105px 50px;
+  background: url("../images/get-payouts.png") top right no-repeat;
+  background-size: auto 50%;
 }
 
 .web-crawler img {
   width: 100%;
   margin-top: 15px;
+}
+
+.benefits {
+  background-image: url("../images/benefit-bg.svg");
 }
 
 .benefits ul {
@@ -207,8 +204,8 @@
 
 
 @media (min-width: 768px) {
-  .main {
-    background: #ff0;
+  .main > section {
+    padding: 60px 0 120px;
   }
 
   .main h1 {
@@ -228,8 +225,7 @@
   }
 
   .grow-monetize {
-    background: url("../images/grow-bg-1.svg");
-    background-size: cover;
+    background-image: url("../images/grow-monize-bg.png");
   }
 
   .grow-monetize-inner {
@@ -334,8 +330,8 @@
 }
 
 @media (min-width: 1200px) {
-  .main {
-    background: #0f0;
+  .main > section {
+    padding: 60px 0 210px;
   }
 
   .main h1 {

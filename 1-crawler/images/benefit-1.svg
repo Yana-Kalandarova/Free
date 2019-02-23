@@ -1,0 +1,54 @@
+<svg viewBox="0 0 259 259" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="20.842%" y1="30.631%" x2="90.978%" y2="100%" id="b">
+            <stop stop-color="#E9EBEE" offset="0%"/>
+            <stop stop-color="#E8EAED" offset="100%"/>
+        </linearGradient>
+        <rect id="a" width="120" height="150" rx="10"/>
+        <linearGradient x1="50%" y1="80.856%" x2="50%" y2="0%" id="c">
+            <stop stop-color="#FFF" stop-opacity="0" offset="0%"/>
+            <stop offset="100%"/>
+        </linearGradient>
+        <ellipse id="d" cx="27.69" cy="27.468" rx="27.69" ry="27.468"/>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="f">
+            <stop stop-color="#FFF" stop-opacity="0" offset="0%"/>
+            <stop offset="100%"/>
+        </linearGradient>
+        <ellipse id="g" cx="21.757" cy="21.475" rx="21.757" ry="21.475"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <circle fill="#F3F3F3" fill-rule="nonzero" cx="129.5" cy="129.5" r="129.5"/>
+        <g transform="rotate(-15 316.254 -82.003)">
+            <use fill="url(#b)" fill-rule="nonzero" xlink:href="#a"/>
+            <rect fill="#C8CCD3" fill-rule="nonzero" x="14" y="18.874" width="35" height="9.934" rx="4.967"/>
+            <rect fill="#C8CCD3" fill-rule="nonzero" x="14" y="80.464" width="63" height="9.934" rx="4.967"/>
+            <rect fill="#C8CCD3" fill-rule="nonzero" x="14" y="118.212" width="81" height="9.934" rx="4.967"/>
+            <rect fill="#C8CCD3" fill-rule="nonzero" x="14" y="99.338" width="39" height="9.934" rx="4.967"/>
+            <ellipse stroke="#C8CCD3" stroke-width="4" fill="#E9EBEE" fill-rule="nonzero" cx="88.5" cy="33.278" rx="21.5" ry="21.358"/>
+        </g>
+        <path fill="url(#c)" fill-rule="nonzero" opacity=".098" transform="rotate(-45 210.972 191.558)" d="M182.972 148.058h56v87h-56z"/>
+        <g transform="translate(154 135)">
+            <mask id="e" fill="#fff">
+                <use xlink:href="#d"/>
+            </mask>
+            <use fill="#FE9403" fill-rule="nonzero" xlink:href="#d"/>
+            <ellipse fill="#FFCA00" fill-rule="nonzero" mask="url(#e)" cx="27.69" cy="27.763" rx="24.827" ry="24.617"/>
+            <circle stroke="#FFDC54" stroke-width="3" cx="27.5" cy="27.5" r="27.5"/>
+            <g fill="#FE9201">
+                <path d="M28.69 25.148c-4.014-.998-5.305-2.03-5.305-3.636 0-1.844 1.786-3.13 4.774-3.13 3.147 0 4.314 1.438 4.42 3.553h3.908c-.124-2.91-1.98-5.582-5.676-6.445v-3.704h-5.304v3.653c-3.43.71-6.189 2.842-6.189 6.106 0 3.908 3.377 5.853 8.31 6.986 4.421 1.015 5.305 2.504 5.305 4.077 0 1.167-.866 3.027-4.774 3.027-3.642 0-5.075-1.556-5.269-3.552H19c.212 3.705 3.112 5.785 6.507 6.479v3.67h5.304v-3.637C34.26 37.97 37 36.058 37 32.591c0-4.804-4.297-6.445-8.31-7.443z"/>
+            </g>
+        </g>
+        <path fill="url(#f)" fill-rule="nonzero" opacity=".227" transform="rotate(-45 213.092 152.092)" d="M201.592 136.592h23v31h-23z"/>
+        <g transform="translate(189 111)">
+            <mask id="h" fill="#fff">
+                <use xlink:href="#g"/>
+            </mask>
+            <use fill="#FE9403" fill-rule="nonzero" xlink:href="#g"/>
+            <ellipse fill="#FFCA00" fill-rule="nonzero" mask="url(#h)" cx="21.757" cy="21.706" rx="19.507" ry="19.246"/>
+            <circle stroke="#FFDC54" stroke-width="3" cx="21.5" cy="21.5" r="21.5"/>
+            <g fill="#FE9201">
+                <path d="M22.536 20.067c-3.121-.77-4.125-1.564-4.125-2.802 0-1.42 1.389-2.41 3.713-2.41 2.448 0 3.355 1.107 3.438 2.736h3.04c-.097-2.241-1.541-4.3-4.415-4.965V9.773H20.06v2.814c-2.668.548-4.813 2.19-4.813 4.704 0 3.01 2.626 4.509 6.463 5.382 3.438.782 4.126 1.928 4.126 3.14 0 .9-.674 2.332-3.713 2.332-2.833 0-3.947-1.198-4.098-2.736H15c.165 2.854 2.42 4.456 5.06 4.99v2.828h4.127v-2.801C26.868 29.944 29 28.47 29 25.8c0-3.7-3.342-4.965-6.464-5.733z"/>
+            </g>
+        </g>
+    </g>
+</svg>

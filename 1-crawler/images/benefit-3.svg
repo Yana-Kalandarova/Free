@@ -1,0 +1,66 @@
+<svg viewBox="0 0 259 259" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="a">
+            <stop stop-color="#FFF" stop-opacity="0" offset="0%"/>
+            <stop offset="100%"/>
+        </linearGradient>
+        <rect id="b" width="100.92" height="53.17" rx="2"/>
+        <rect id="d" width="118.107" height="60.997" rx="2"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <circle fill-rule="nonzero" cx="129.5" cy="129.5" r="129.5" fill="#F3F3F3"/>
+        <g transform="translate(56 31)">
+            <rect fill="#E1E4E9" fill-rule="nonzero" x="14" width="104" height="186.154" rx="9"/>
+            <rect fill="#F8F8F8" fill-rule="nonzero" x="22" y="14.932" width="88" height="140.362" rx="4"/>
+            <path fill="url(#a)" fill-rule="nonzero" opacity=".173" transform="rotate(45 71.771 148.098)" d="M14.001 104.828l115.738-.263-.197 86.804-115.738.262z"/>
+            <rect fill="#EFF1F4" fill-rule="nonzero" x="48" y="6.968" width="36" height="3.982" rx="1.991"/>
+            <ellipse fill="#EFF1F4" fill-rule="nonzero" cx="66" cy="170.226" rx="8" ry="7.964"/>
+            <g transform="rotate(17 -267.928 208.062)">
+                <g transform="translate(.037 .503)">
+                    <mask id="c" fill="#fff">
+                        <use xlink:href="#b"/>
+                    </mask>
+                    <use fill="#FABB06" fill-rule="nonzero" xlink:href="#b"/>
+                    <path d="M-4.287 55.1c20.344-14.222 39.478-21.517 57.403-21.884C104.16 32.17 100.439 5.54 103.57-4.548c5.485-17.67-27.793-19.608-99.836-5.815L-8.658 11.27l4.371 43.83z" fill="#FFF" fill-rule="nonzero" opacity=".054" mask="url(#c)"/>
+                </g>
+                <rect fill="#E5FEEB" fill-rule="nonzero" opacity=".358" x="6.474" y="7.567" width="12.377" height="4.834" rx="2.417"/>
+                <rect fill="#E5FEEB" fill-rule="nonzero" opacity=".358" x="5.423" y="42.712" width="29.514" height="4.834" rx="2.417"/>
+                <rect fill="#E5FEEB" fill-rule="nonzero" opacity=".358" x="37.704" y="42.346" width="47.604" height="4.834" rx="2.417"/>
+                <ellipse fill="#E5FEEB" fill-rule="nonzero" opacity=".358" cx="7.33" cy="34.028" rx="2.38" ry="2.417"/>
+                <ellipse fill="#E5FEEB" fill-rule="nonzero" opacity=".358" cx="36.718" cy="33.557" rx="2.38" ry="2.417"/>
+                <ellipse fill="#E5FEEB" fill-rule="nonzero" opacity=".358" cx="65.718" cy="33.969" rx="2.38" ry="2.417"/>
+                <ellipse fill="#E5FEEB" fill-rule="nonzero" opacity=".358" cx="13.711" cy="33.738" rx="2.38" ry="2.417"/>
+                <ellipse fill="#E5FEEB" fill-rule="nonzero" opacity=".358" cx="42.711" cy="34.15" rx="2.38" ry="2.417"/>
+                <ellipse fill="#E5FEEB" fill-rule="nonzero" opacity=".358" cx="72.098" cy="33.679" rx="2.38" ry="2.417"/>
+                <ellipse fill="#E5FEEB" fill-rule="nonzero" opacity=".358" cx="20.091" cy="33.448" rx="2.38" ry="2.417"/>
+                <ellipse fill="#E5FEEB" fill-rule="nonzero" opacity=".358" cx="49.091" cy="33.86" rx="2.38" ry="2.417"/>
+                <ellipse fill="#E5FEEB" fill-rule="nonzero" opacity=".358" cx="78.091" cy="34.272" rx="2.38" ry="2.417"/>
+                <ellipse fill="#E5FEEB" fill-rule="nonzero" opacity=".358" cx="26.084" cy="34.041" rx="2.38" ry="2.417"/>
+                <ellipse fill="#E5FEEB" fill-rule="nonzero" opacity=".358" cx="55.471" cy="33.569" rx="2.38" ry="2.417"/>
+                <ellipse fill="#E5FEEB" fill-rule="nonzero" opacity=".358" cx="84.472" cy="33.981" rx="2.38" ry="2.417"/>
+            </g>
+            <g transform="rotate(47 .782 133.527)">
+                <mask id="e" fill="#fff">
+                    <use xlink:href="#d"/>
+                </mask>
+                <use fill="#6555C0" fill-rule="nonzero" xlink:href="#d"/>
+                <path d="M-5.017 63.211c23.809-16.315 46.201-24.683 67.179-25.105 59.737-1.2 55.382-31.752 59.047-43.323 6.42-20.272-32.527-22.496-116.84-6.672l-14.501 24.818 5.115 50.282z" fill="#FFF" fill-rule="nonzero" opacity=".054" mask="url(#e)"/>
+                <rect fill="#E5FEEB" fill-rule="nonzero" opacity=".358" x="7.252" y="7.237" width="14.504" height="5.169" rx="2.585"/>
+                <rect fill="#E5FEEB" fill-rule="nonzero" opacity=".358" x="6.216" y="47.557" width="34.189" height="5.169" rx="2.585"/>
+                <rect fill="#E5FEEB" fill-rule="nonzero" opacity=".358" x="44.549" y="47.557" width="55.946" height="5.169" rx="2.585"/>
+                <ellipse fill="#E5FEEB" fill-rule="nonzero" opacity=".358" cx="8.806" cy="37.736" rx="2.59" ry="2.585"/>
+                <ellipse fill="#E5FEEB" fill-rule="nonzero" opacity=".358" cx="42.995" cy="37.736" rx="2.59" ry="2.585"/>
+                <ellipse fill="#E5FEEB" fill-rule="nonzero" opacity=".358" cx="77.184" cy="37.736" rx="2.59" ry="2.585"/>
+                <ellipse fill="#E5FEEB" fill-rule="nonzero" opacity=".358" cx="16.058" cy="37.736" rx="2.59" ry="2.585"/>
+                <ellipse fill="#E5FEEB" fill-rule="nonzero" opacity=".358" cx="50.247" cy="37.736" rx="2.59" ry="2.585"/>
+                <ellipse fill="#E5FEEB" fill-rule="nonzero" opacity=".358" cx="84.436" cy="37.736" rx="2.59" ry="2.585"/>
+                <ellipse fill="#E5FEEB" fill-rule="nonzero" opacity=".358" cx="23.311" cy="37.736" rx="2.59" ry="2.585"/>
+                <ellipse fill="#E5FEEB" fill-rule="nonzero" opacity=".358" cx="57.5" cy="37.736" rx="2.59" ry="2.585"/>
+                <ellipse fill="#E5FEEB" fill-rule="nonzero" opacity=".358" cx="91.689" cy="37.736" rx="2.59" ry="2.585"/>
+                <ellipse fill="#E5FEEB" fill-rule="nonzero" opacity=".358" cx="30.563" cy="37.736" rx="2.59" ry="2.585"/>
+                <ellipse fill="#E5FEEB" fill-rule="nonzero" opacity=".358" cx="64.752" cy="37.736" rx="2.59" ry="2.585"/>
+                <ellipse fill="#E5FEEB" fill-rule="nonzero" opacity=".358" cx="98.941" cy="37.736" rx="2.59" ry="2.585"/>
+            </g>
+        </g>
+    </g>
+</svg>
