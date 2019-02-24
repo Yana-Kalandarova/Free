@@ -79,6 +79,11 @@
   background: #f0f1f3;
 }
 
+.header-nav_logo svg {
+  width: 36px;
+  height: 36px;
+}
+
 .header-nav_list > ul {
   display: flex;
   flex-direction: column;
