@@ -41,7 +41,7 @@
   transition: all 0.3s ease;
 }
 
-.mob-nav_icon.test {
+.mob-nav_icon.hidden {
   opacity: 0;
   visibility: hidden;
 }
