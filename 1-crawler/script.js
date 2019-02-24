@@ -13,20 +13,28 @@
     mobNav.classList.toggle('open');
     mobNavOverlay.classList.toggle('hide');
     mobNavBtnIcon.forEach(icon => {
-      icon.classList.toggle('fade-out');
-      icon.classList.toggle('fade-in');
+      icon.classList.toggle('test');
     });
   }
 
-  mobNavBtn.addEventListener('click', () => {
-    toggleMobNav();
-  });
 
-  mobNavLinks.forEach(el => el.addEventListener('click', () => {
-    toggleMobNav();
-  }));
+  mobNavBtn.addEventListener('click', toggleMobNav);
 
-  mobNavOverlay.addEventListener('click', () => {
-    toggleMobNav();
-  });
+  mobNavLinks.forEach(el => el.addEventListener('click', toggleMobNav));
+
+  mobNavOverlay.addEventListener('click', toggleMobNav);
+
+
+  const desktop = window.matchMedia('(min-width: 1200px)');
+
+  desktop.addEventListener('change', e => {
+    console.log(e.matches);
+    if (e.matches) {
+      mobNavLinks.forEach(el => el.removeEventListener('click', toggleMobNav));
+    } else {
+      mobNavBtn.addEventListener('click', toggleMobNav);
+      mobNavLinks.forEach(el => el.addEventListener('click', toggleMobNav));
+      mobNavOverlay.addEventListener('click', toggleMobNav);
+    }
+  })
 }());

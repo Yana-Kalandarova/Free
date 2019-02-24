@@ -36,6 +36,14 @@
   left: 0;
   width: 24px;
   height: 24px;
+  opacity: 1;
+  visibility: visible;
+  transition: all 0.3s ease;
+}
+
+.mob-nav_icon.test {
+  opacity: 0;
+  visibility: hidden;
 }
 
 .mob-nav_title {
