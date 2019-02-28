@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="211px" viewBox="0 0 1440 211" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Benifits_bottom</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Benifits_bottom" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#0065FF" fill-rule="nonzero">
+            <path d="M6.82121026e-13,-1.13686838e-13 L1440,-1.13686838e-13 L1440,130.699205 C1295.07965,28.6918522 1046.66388,29.5352478 694.752694,133.229392 C342.841511,236.923536 111.257279,236.923536 6.82121026e-13,133.229392 L6.82121026e-13,-1.13686838e-13 Z" id="Rectangle" opacity="0.276553199"></path>
+            <path d="M0,0 L1440,0 L1440,108.699205 C1295.07965,6.69185223 1046.66388,7.5352478 694.752694,111.229392 C342.841511,214.923536 111.257279,214.923536 0,111.229392 L0,0 Z" id="Rectangle"></path>
+        </g>
+    </g>
+</svg>

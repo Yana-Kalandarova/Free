@@ -48,8 +48,16 @@
 
 .main .grow-monetize {
   margin: 0;
-  padding: 50px 0;
+}
+
+.grow-monetize-outer {
+  padding: 50px 0 25px;
   background-color: #0065ff;
+}
+
+.grow-monetize .wave {
+  display: block;
+  width: 100%;
 }
 
 .grow-monetize-inner img {
@@ -121,6 +129,10 @@
   background-size: auto 50%;
 }
 
+.main .web-crawler {
+  margin-bottom: 0;
+}
+
 .web-crawler picture {
   display: block;
   margin-bottom: 30px;
@@ -183,9 +195,22 @@
 }
 
 .main .benefits {
-  margin: -30px 0 0;
-  padding: 50px 0;
+  margin-top: 0;
+}
+
+.main .benefits-outer {
+  _margin: -30px 0 0;
+  _padding: 50px 0;
   background-color: #0065ff;
+}
+
+.benefits .wave {
+  display: block;
+  width: 100%;
+}
+
+.benefits-top-wave {
+  background-color: #f9f9f9;
 }
 
 .benefits ul {
@@ -284,8 +309,11 @@
     line-height: 24px;
   }
 
-  .main .grow-monetize {
-    padding: 60px 0 120px;
+  .main .grow-monetize-outer {
+    padding: 30px 0;
+    background-image: url("../images/grow-monetize-miggle-bg.svg");
+    background-size: contain;
+    background-position: center;
   }
 
   .grow-monetize-inner {
@@ -330,6 +358,7 @@
   .web-crawler img {
     display: block;
     width: auto;
+    max-width: 100%;
     margin: 0 auto;
   }
 
@@ -391,7 +420,7 @@
 
 @media (min-width: 1200px) {
   .main > section {
-    padding: 60px 0 210px;
+    margin: 100px 0;
   }
 
   .main h1 {
@@ -410,6 +439,11 @@
     margin-bottom: 30px;
   }
 
+  .main .grow-monetize-outer {
+    padding: 60px 0;
+    background-position-y: top;
+  }
+
   .how-it-works ul > li {
     display: flex;
     min-height: 170px;
@@ -426,6 +460,10 @@
 
   .how-it-works_icon {
     margin-left: 15px;
+  }
+
+  .web-crawler_tabs {
+    margin-top: 100px;
   }
 
   .get-in-touch form {
