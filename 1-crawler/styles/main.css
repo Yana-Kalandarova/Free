@@ -56,6 +56,8 @@
 }
 
 .grow-monetize .wave {
+  position: relative;
+  top: -2px;
   display: block;
   width: 100%;
 }
@@ -205,6 +207,8 @@
 }
 
 .benefits .wave {
+  position: relative;
+  top: -2px;
   display: block;
   width: 100%;
 }
