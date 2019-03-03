@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1440px" height="130px" viewBox="0 0 1440 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
-    <title>Benifits_header</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Benifits_header" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group" fill="#0065FF" fill-rule="nonzero">
-            <path d="M0,50.231003 C173.186757,117.205674 407.132102,117.205674 701.836032,50.231003 C996.539963,-16.7436677 1242.59462,-16.7436677 1440,50.231003 L1440,126 L0,128.530187 L0,50.231003 Z" id="Rectangle"></path>
+<svg preserveAspectRatio="none" viewBox="0 0 1440 126" xmlns="http://www.w3.org/2000/svg">
+<g>
+    <g id="BG" fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero" id="Group-28">
+            <g id="svg_1">
+                <path id="Rectangle" d="m0,50.231c173.18676,66.97467 407.1321,66.97467 701.83603,0c294.70393,-66.97467 540.75859,-66.97467 738.16397,0l0,75.769l-1440,2.53019l0,-78.29919z" fill="#0065FF"/>
+            </g>
         </g>
     </g>
+</g>
 </svg>

@@ -46,6 +46,10 @@
   margin-bottom: 20px;
 }
 
+.main .wave {
+  display: block;
+}
+
 .main .grow-monetize {
   margin: 0;
 }
@@ -53,13 +57,6 @@
 .grow-monetize-outer {
   padding: 50px 0 25px;
   background-color: #0065ff;
-}
-
-.grow-monetize .wave {
-  position: relative;
-  top: -2px;
-  display: block;
-  width: 100%;
 }
 
 .grow-monetize-inner img {
@@ -201,16 +198,7 @@
 }
 
 .main .benefits-outer {
-  _margin: -30px 0 0;
-  _padding: 50px 0;
   background-color: #0065ff;
-}
-
-.benefits .wave {
-  position: relative;
-  top: -2px;
-  display: block;
-  width: 100%;
 }
 
 .benefits-top-wave {
