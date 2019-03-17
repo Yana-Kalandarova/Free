@@ -40,6 +40,10 @@ svg {
   padding: 0 15px;
 }
 
+.main .container {
+  max-width: 1160px;
+}
+
 @media (min-width: 768px) {
   .container {
     padding: 0 30px;
