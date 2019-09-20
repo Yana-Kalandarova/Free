@@ -1,0 +1,24 @@
+<svg width="1440" height="597" viewBox="0 0 1440 597" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path id="a" d="M0 0h1440v597L0 599z" />
+        <linearGradient x1="102.311%" y1="50%" x2="6.11%" y2="50%" id="b">
+            <stop stop-color="#05E5F4" offset="0%" />
+            <stop stop-color="#02C6E5" stop-opacity="0" offset="100%" />
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(1)">
+            <mask id="c" fill="#fff">
+                <use xlink:href="#a" />
+            </mask>
+            <use fill="#0065FF" fill-rule="nonzero" xlink:href="#a" />
+            <path d="M-70 570h246.823c27.615 0 50-22.386 50-50v-48c0-27.614 22.386-50 50-50h138.195c16.568 0 30 13.431 30 30v21c0 12.703 10.297 23 23 23H562a8 8 0 0 0 8-8v-66" stroke="url(#b)" stroke-width="16" opacity=".069" stroke-linecap="round" stroke-linejoin="round" mask="url(#c)" transform="matrix(-1 0 0 1 500 0)" />
+        </g>
+        <path d="M186 48v83.953c0 9.94-8.059 18-18 18h-41.333c-6.628 0-12 5.372-12 12V265H-13" stroke="#02C6E5" stroke-width="16" opacity=".06" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M1140 450.738v41.406c0 12.702 10.297 23 23 23h36.97c11.046 0 20 8.954 20 20V545c0 9.941 8.06 18 18 18h99.197c16.568 0 30-13.431 30-30v-55c0-19.882 16.117-36 36-36H1441" stroke="#0074FB" stroke-width="16" opacity=".256" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M648 257h138.037c27.614 0 50-22.386 50-50V61h218.058v75c0 12.703 10.298 23 23 23H1171a8 8 0 0 0 8-8V.5" stroke="url(#b)" stroke-width="16" opacity=".109" stroke-linecap="round" stroke-linejoin="round" transform="translate(1)" />
+        <path d="M1340 50v83.953c0 9.94-8.059 18-18 18h-41.333c-6.628 0-12 5.372-12 12V267H1141" stroke="#02C6E5" stroke-width="16" opacity=".062" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M1203 326h96.056c13.807 0 25-11.193 25-25v-57c0-13.807 11.193-25 25-25H1441" stroke-opacity=".384" stroke="#FFF" stroke-width="34" opacity=".127" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M1141.992 327H1059c-13.807 0-25 11.193-25 25v45c0 13.807 11.193 25 25 25h92" stroke-opacity=".384" stroke="#FFF" stroke-width="34" opacity=".092" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+</svg>

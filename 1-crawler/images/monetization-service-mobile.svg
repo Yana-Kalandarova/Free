@@ -1,0 +1,59 @@
+<svg  viewBox="0 0 294 580" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M148.61 42v21.06" stroke="#E0E2E6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+        <path fill="#DFE1E4" fill-rule="nonzero" d="M148.697 67.646l-7-9h14z" />
+        <path d="M148.61 132v21.06" stroke="#E0E2E6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+        <path fill="#DFE1E4" fill-rule="nonzero" d="M148.697 157.646l-7-9h14z" />
+        <path d="M148.61 208v21.06" stroke="#E0E2E6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+        <path fill="#DFE1E4" fill-rule="nonzero" d="M148.697 233.646l-7-9h14z" />
+        <path d="M148.61 284v21.06" stroke="#E0E2E6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+        <path fill="#DFE1E4" fill-rule="nonzero" d="M148.697 309.646l-7-9h14z" />
+        <path d="M148.61 360v21.06" stroke="#E0E2E6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+        <path fill="#DFE1E4" fill-rule="nonzero" d="M148.697 385.646l-7-9h14z" />
+        <path d="M148.61 436v21.06" stroke="#E0E2E6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+        <path fill="#DFE1E4" fill-rule="nonzero" d="M148.697 461.646l-7-9h14z" />
+        <path d="M148.61 512v21.06" stroke="#E0E2E6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+        <path fill="#DFE1E4" fill-rule="nonzero" d="M148.697 537.646l-7-9h14z" />
+        <g transform="translate(62)">
+            <rect fill="#0065FF" fill-rule="nonzero" width="174" height="34" rx="17" /><text font-family="Work Sans, sans-serif" font-size="14" font-weight="400" fill="#FFF">
+                <tspan x="16" y="21">Mobile app developer</tspan>
+            </text>
+        </g>
+        <g transform="translate(62 546)">
+            <rect fill="#0065FF" fill-rule="nonzero" width="174" height="34" rx="17" /><text font-family="Work Sans, sans-serif" font-size="14" font-weight="400" fill="#FFF">
+                <tspan x="16" y="21">Mobile app developer</tspan>
+            </text>
+        </g>
+        <g transform="translate(45 394)">
+            <rect fill="#23893D" fill-rule="nonzero" width="205" height="34" rx="17" /><text font-family="Work Sans, sans-serif" font-size="14" font-weight="400" fill="#FFF">
+                <tspan x="20" y="21">Our monetization service</tspan>
+            </text>
+        </g>
+        <g transform="translate(57 242)">
+            <rect fill="#FFAB00" fill-rule="nonzero" width="182" height="34" rx="17" /><text font-family="Work Sans, sans-serif" font-size="14" font-weight="400" fill="#FFF">
+                <tspan x="12" y="21">Web Crawling Providers</tspan>
+            </text>
+        </g>
+        <g transform="translate(0 76)">
+            <rect stroke="#979797" fill="#FFF" fill-rule="nonzero" x=".5" y=".5" width="293" height="47" rx="23.5" /><text font-family="Work Sans, sans-serif" font-size="14" font-weight="400" fill="#64686C">
+                <tspan x="26.104" y="21">Possibility to use app as a proxifier for </tspan>
+                <tspan x="105.33" y="37">web crawling</tspan>
+            </text>
+        </g>
+        <g transform="translate(106 166)">
+            <rect stroke="#979797" fill="#FFF" fill-rule="nonzero" x=".5" y=".5" width="86" height="33" rx="16.5" /><text font-family="Work Sans, sans-serif" font-size="14" font-weight="400" fill="#64686C">
+                <tspan x="17" y="22">Payouts</tspan>
+            </text>
+        </g>
+        <g transform="translate(78 470)">
+            <rect stroke="#979797" fill="#FFF" fill-rule="nonzero" x=".5" y=".5" width="142" height="33" rx="16.5" /><text font-family="Work Sans, sans-serif" font-size="14" font-weight="400" fill="#64686C">
+                <tspan x="16" y="22">Connection pool</tspan>
+            </text>
+        </g>
+        <g transform="translate(113 318)">
+            <rect stroke="#979797" fill="#FFF" fill-rule="nonzero" x=".5" y=".5" width="69" height="33" rx="16.5" /><text font-family="Work Sans, sans-serif" font-size="14" font-weight="400" fill="#64686C">
+                <tspan x="22" y="21">Fee</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

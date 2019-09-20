@@ -1,0 +1,26 @@
+<svg viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="logo-icon">
+    <defs>
+        <circle id="a" cx="15" cy="15" r="15"/>
+        <filter x="-75%" y="-66.7%" width="250%" height="233.3%" filterUnits="objectBoundingBox" id="c">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <circle fill="#CFE2FC" fill-rule="nonzero" cx="18" cy="18" r="18"/>
+        <circle fill="#B0D0FC" fill-rule="nonzero" cx="18" cy="18" r="17"/>
+        <g transform="translate(3 3)">
+            <mask id="b" fill="#fff">
+                <use xlink:href="#a"/>
+            </mask>
+            <use fill="#000" fill-rule="nonzero" xlink:href="#a"/>
+            <circle fill="#FFF" fill-rule="nonzero" opacity=".208" mask="url(#b)" cx="-1" cy="-2" r="24"/>
+        </g>
+        <ellipse fill="#00F7FF" fill-rule="nonzero" filter="url(#c)" cx="18" cy="17.5" rx="4" ry="4.5"/>
+        <ellipse fill="#E5FDFF" fill-rule="nonzero" cx="18" cy="17.5" rx="4" ry="4.5"/>
+        <ellipse stroke="#00F7FF" stroke-width=".4" cx="18" cy="17.5" rx="7" ry="7.5"/>
+        <circle stroke="red" stroke-width=".3" opacity=".697" cx="18" cy="18" r="13"/>
+        <circle fill="#FFF" fill-rule="nonzero" cx="11" cy="10" r="1"/>
+        <path d="M26.13 25.583c.455-.386.914-.94 1.377-1.662.462-.721.753-1.376.871-1.965" stroke="#C80202" stroke-width=".3" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M23.494 27.696c.301-.149.64-.359 1.02-.629.378-.27.668-.534.87-.79" stroke="#00F7FF" stroke-width=".3" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+</svg>

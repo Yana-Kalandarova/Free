@@ -1,0 +1,236 @@
+<svg width="1137" height="621" viewBox="0 0 1137 621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="a">
+            <stop stop-color="#EFF0F2" offset="0%" />
+            <stop stop-color="#F7F6F6" offset="100%" />
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="b">
+            <stop stop-color="#4082EF" offset="0%" />
+            <stop stop-color="#2F6BC6" offset="100%" />
+        </linearGradient>
+        <rect id="c" width="243.645" height="10.089" rx="5.045" />
+        <linearGradient x1="20.842%" y1="30.631%" x2="50%" y2="100%" id="e">
+            <stop stop-color="#F5F6F7" offset="0%" />
+            <stop stop-color="#E8EAED" offset="100%" />
+        </linearGradient>
+        <rect id="d" width="44.619" height="56.38" rx="10" />
+        <linearGradient x1="50%" y1="92.56%" x2="50%" y2="1.03%" id="f">
+            <stop stop-opacity="0" offset="0%" />
+            <stop stop-opacity=".207" offset="100%" />
+        </linearGradient>
+        <linearGradient x1="20.845%" y1="6.746%" x2="72.978%" y2="100%" id="i">
+            <stop stop-color="#FFF" offset="0%" />
+            <stop stop-color="#C2C7CC" offset="100%" />
+        </linearGradient>
+        <ellipse id="h" cx="14.677" cy="14.837" rx="14.677" ry="14.837" />
+        <ellipse id="m" cx="18.494" cy="24.036" rx="7.339" ry="7.418" />
+        <filter x="-204.4%" y="-202.2%" width="508.8%" height="504.4%" filterUnits="objectBoundingBox" id="k">
+            <feGaussianBlur stdDeviation="3" in="SourceGraphic" />
+        </filter>
+        <filter x="-275.9%" y="-273%" width="651.9%" height="645.9%" filterUnits="objectBoundingBox" id="l">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1" />
+            <feGaussianBlur stdDeviation="10.5" in="shadowOffsetOuter1" result="shadowBlurOuter1" />
+            <feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0" in="shadowBlurOuter1" />
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="n">
+            <stop stop-color="#FFF" stop-opacity="0" offset="0%" />
+            <stop stop-color="#FFDC54" offset="100%" />
+        </linearGradient>
+        <ellipse id="o" cx="12.347" cy="12.738" rx="12.347" ry="12.738" />
+        <linearGradient x1="50%" y1="79.398%" x2="50%" y2="0%" id="q">
+            <stop stop-color="#FFF" stop-opacity="0" offset="0%" />
+            <stop stop-color="#FFDC54" offset="100%" />
+        </linearGradient>
+        <ellipse id="r" cx="15.592" cy="15.353" rx="15.592" ry="15.353" />
+        <rect id="t" x="12.447" y="59.824" width="131.106" height="88.074" rx="6" />
+        <ellipse id="u" cx="18.053" cy="18.258" rx="18.053" ry="18.258" />
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(34 53)">
+            <g transform="translate(849 215)">
+                <path d="M54.624 210.206c1.83.292 2.81 4.1 2.19 8.508-.62 4.408-2.609 7.747-4.438 7.457-1.83-.29-2.81-4.1-2.19-8.51.62-4.41 2.604-7.745 4.438-7.455z" fill="#C1DBFF" />
+                <path d="M57.2 214.497c1.577 1.13.75 5.046-1.844 8.741-2.596 3.695-5.978 5.774-7.555 4.642-1.578-1.133-.752-5.047 1.843-8.741 2.596-3.695 5.98-5.774 7.555-4.642z" fill="#C1DBFF" />
+                <path d="M186.124 74.897c53.845 55.962 81.318 116.68 61.373 135.618-19.944 18.937-79.772-11.078-133.618-67.037C60.032 87.52 32.555 26.792 52.505 7.86c19.95-18.932 79.772 11.075 133.619 67.037z" fill="#E7F2FF" />
+                <path d="M180.545 80.345c44.785 47.07 67.635 98.143 51.047 114.071-16.59 15.929-66.35-9.318-111.135-56.386C75.67 90.962 52.817 39.883 69.41 23.96c16.593-15.924 66.35 9.315 111.135 56.386z" fill="#E2EDFB" />
+                <path d="M152.765 106.022c2.445 2.136 2.961 5.284 1.164 7.034-1.796 1.75-5.252 1.436-7.696-.7s-2.961-5.283-1.156-7.034c1.805-1.75 5.242-1.44 7.688.7z" fill="#041427" />
+                <path d="M148.008 107.188l2.992 3.25v26.5c0 1.795-1.343 3.25-3 3.25s-3-1.455-3-3.25v-26.5l3.008-3.25z" fill="#041427" />
+                <circle fill="#CFE2FC" cx="147.5" cy="140.688" r="9.5" />
+                <circle fill="#B3D2FC" cx="147" cy="141.188" r="6" />
+                <circle fill="#82AFEB" cx="146" cy="143.188" r="6" />
+                <path d="M116.272 146.789l28.009-9.302c2.589-.923 5.46.365 6.411 2.878.952 2.513-.376 5.298-2.965 6.222l-28.006 9.302c-2.589.924-5.46-.363-6.412-2.876-.953-2.513.374-5.3 2.963-6.224z" fill="#041427" />
+                <circle fill="#CFE2FC" cx="117.5" cy="153.688" r="10.5" />
+                <circle fill="#B3D2FC" cx="116.5" cy="153.688" r="6.5" />
+                <circle fill="#82AFEB" cx="115.5" cy="154.688" r="6.5" />
+                <path d="M90.274 214.659l19.918-60.203c.932-2.537 3.779-3.874 6.39-3 2.613.873 4.024 3.631 3.168 6.194l-19.916 60.202c-.904 2.577-3.777 3.951-6.416 3.07-2.64-.883-4.048-3.687-3.144-6.265v.002z" fill="#041427" />
+                <ellipse fill="#CFE2FC" cx="83" cy="232.688" rx="41" ry="40.5" />
+                <path d="M83.565 205.49c13.235 2.276 21.7 16.743 18.9 32.315-2.8 15.571-15.793 26.35-29.03 24.082-13.236-2.27-21.7-16.743-18.9-32.314 2.8-15.572 15.793-26.355 29.03-24.082z" fill="#B3D2FC" />
+                <path d="M83.152 206.47c12.154 2.117 19.928 15.572 17.357 30.047-2.572 14.475-14.506 24.506-26.66 22.39-12.155-2.117-19.929-15.572-17.358-30.047 2.572-14.475 14.506-24.506 26.66-22.39z" fill="#A2C7F8" />
+                <path d="M81.944 207.459c11.616 2.035 19.041 14.981 16.587 28.913-2.453 13.932-13.858 23.577-25.474 21.546-11.616-2.03-19.044-14.981-16.587-28.913 2.457-13.932 13.858-23.579 25.474-21.546z" fill="#041427" />
+                <path d="M82.134 209.438c10.805 1.877 17.713 13.807 15.43 26.648-2.283 12.84-12.9 21.729-23.698 19.852-10.798-1.876-17.714-13.805-15.43-26.646 2.284-12.84 12.889-21.73 23.698-19.854z" stroke="#E91E63" />
+                <path d="M77 253.185c2.098.057 4.17-.632 6-1.997M85 250.188s1.318-.194 3-2" stroke="#0FF" stroke-width="2" />
+                <path d="M90 245.188s1.202-.834 2-4" stroke="#E91E63" stroke-width="2" />
+                <path d="M80.274 220.327c5.943 1.038 9.742 7.638 8.486 14.74-1.255 7.103-7.092 12.021-13.034 10.983-5.943-1.038-9.742-7.638-8.486-14.74 1.255-7.103 7.084-12.023 13.034-10.983z" stroke="#0FF" fill="#041427" />
+                <path d="M78.447 226.268c3.784.6 6.2 4.409 5.4 8.504-.8 4.095-4.51 6.938-8.294 6.336-3.784-.602-6.2-4.409-5.4-8.504.8-4.095 4.51-6.935 8.294-6.336zM70.41 217.2c1.106.293 1.794 1.55 1.536 2.807l-.01.045c-.152 1.31-1.188 2.249-2.346 2.125-1.106-.293-1.794-1.55-1.536-2.807l.01-.045c.152-1.31 1.188-2.25 2.346-2.126z" fill="#E6FFFF" />
+                <path d="M90.944 211.148s2.902 26.8-33.195 30.04c-.23-1.812 0-1.938 0-1.938s-1.975-10.204.489-15.02c2.047-4.522 6.616-18.233 23.92-16.958 1.851.285 4.627.465 8.786 3.876z" fill="#E0F2FF" opacity=".15" />
+            </g>
+            <rect fill="#0065FF" fill-rule="nonzero" y="522" width="224" height="44" rx="22" />
+            <rect fill="#FFAB00" fill-rule="nonzero" x="843" y="524" width="241" height="44" rx="22" />
+            <rect fill="#23893D" fill-rule="nonzero" x="424" y="445" width="254" height="44" rx="22" />
+            <rect stroke="#979797" x=".5" y="124.5" width="245" height="60" rx="30" />
+            <rect stroke="#979797" x="251.5" y="308.5" width="156" height="43" rx="21.5" />
+            <rect stroke="#979797" x="726.5" y="308.5" width="95" height="43" rx="21.5" />
+            <rect stroke="#979797" x="897.5" y="130.5" width="116" height="43" rx="21.5" />
+            <text font-family="Work Sans, sans-serif" font-size="18" font-weight="400" fill="#FFF">
+                <tspan x="20" y="550">Mobile app developer</tspan>
+            </text>
+            <text font-family="Work Sans, sans-serif" font-size="18" font-weight="400" fill="#FFF">
+                <tspan x="860" y="552">Web Crawling Providers</tspan>
+            </text>
+            <text font-family="Work Sans, sans-serif" font-size="18" font-weight="400" fill="#FFF">
+                <tspan x="444" y="473">Our monetization service</tspan>
+            </text>
+            <text font-family="Work Sans, sans-serif" font-size="16" font-weight="400" fill="#64686C">
+                <tspan x="26.42" y="150">Possibility to use app as a </tspan>
+                <tspan x="27.076" y="169">proxifier for web crawling</tspan>
+            </text>
+            <path d="M121 105V20c0-7.18 5.82-13 13-13h281.572" stroke="#E0E2E6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+            <text font-family="Work Sans, sans-serif" font-size="16" font-weight="400" fill="#64686C">
+                <tspan x="268" y="335">Connection pool</tspan>
+            </text>
+            <text font-family="Work Sans, sans-serif" font-size="16" font-weight="400" fill="#64686C">
+                <tspan x="760" y="335">Fee</tspan>
+            </text>
+            <text font-family="Work Sans, sans-serif" font-size="16" font-weight="400" fill="#64686C">
+                <tspan x="929" y="157">Payouts</tspan>
+            </text>
+            <path fill="#DFE1E4" fill-rule="nonzero" d="M422 7l-9 7V0zM956 112l-7-9h14zM774 368l7 9h-14zM653 330l9-7v14zM423 330l9-7v14z" />
+            <path d="M674 7h268.674c7.18 0 13 5.82 13 13v84" stroke="#E0E2E6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+        <g transform="translate(486)" fill-rule="nonzero">
+            <rect fill="url(#a)" width="192" height="113" rx="10" />
+            <rect fill="#D8DDE2" opacity=".456" x="15" y="13" width="54" height="41" rx="5" />
+            <rect fill="#D8DDE2" opacity=".456" x="120" y="63" width="47" height="41" rx="5" />
+            <rect fill="#D8DDE2" opacity=".456" x="89" y="14" width="32" height="4" rx="2" />
+            <rect fill="#D8DDE2" opacity=".456" x="15" y="67" width="46" height="4" rx="2" />
+            <rect fill="#D8DDE2" opacity=".456" x="89" y="30" width="48" height="4" rx="2" />
+            <rect fill="#D8DDE2" opacity=".456" x="15" y="87" width="61" height="4" rx="2" />
+            <rect fill="#D8DDE2" opacity=".456" x="89" y="22" width="78" height="4" rx="2" />
+            <rect fill="#D8DDE2" opacity=".456" x="15" y="77" width="78" height="4" rx="2" />
+        </g>
+        <g transform="translate(630 64)" fill-rule="nonzero">
+            <path d="M6 1.007L31.919.945a4.486 4.486 0 0 1 4.496 4.486 4.507 4.507 0 0 1-4.496 4.507L6 10 4.222 8H0V3h4.233L6 1v.007z" transform="rotate(45 -25.604 82.582)" fill="url(#b)" />
+            <path d="M27.617 56C12.429 56 .117 43.688.117 28.5S12.429 1 27.617 1s27.5 12.312 27.5 27.5S42.805 56 27.617 56zm0-9c10.217 0 18.5-8.283 18.5-18.5S37.834 10 27.617 10s-18.5 8.283-18.5 18.5S17.4 47 27.617 47z" fill="#3775D9" />
+            <path d="M27.617 55C12.429 55 .117 42.688.117 27.5S12.429 0 27.617 0s27.5 12.312 27.5 27.5S42.805 55 27.617 55zm0-9c10.217 0 18.5-8.283 18.5-18.5S37.834 9 27.617 9s-18.5 8.283-18.5 18.5S17.4 46 27.617 46z" fill="#4285F4" />
+            <circle fill="#4285F4" opacity=".138" cx="28" cy="28" r="19" />
+        </g>
+        <path d="M851 603h-30c-7.18 0-13-5.82-13-13V428" stroke="#E0E2E6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+        <g transform="translate(0 266)">
+            <path d="M121.618 264.691h29.177a8.309 8.309 0 0 1 8.308 8.309H113.31a8.309 8.309 0 0 1 8.308-8.309z" fill="#BABFC5" fill-rule="nonzero" />
+            <ellipse stroke="#BABFC5" stroke-width="3" cx="136.206" cy="223.445" rx="27.006" ry="2.671" />
+            <path fill="#BABFC5" fill-rule="nonzero" d="M133.271 162.613h5.284v103.265h-5.284z" />
+            <rect fill="#ACB2B9" fill-rule="nonzero" x="123.29" y="159.646" width="25.245" height="5.341" rx="2.671" />
+            <rect fill="#BABFC5" fill-rule="nonzero" x="105.677" y="155.491" width="61.645" height="5.341" rx="2.671" />
+            <path fill="#BABFC5" fill-rule="nonzero" d="M56.261 138.28l-2.835.768 34.037 128.41 2.835-.768zM225.345 138.28l-2.835.768 34.037 128.41 2.835-.768z" />
+            <path fill="#D8DDE2" fill-rule="nonzero" d="M53.715 138.28l2.836.768L22.21 268.604l-2.836-.768zM222.8 138.28l2.835.768-34.341 129.556-2.836-.768z" />
+            <g transform="translate(106.265)" fill-rule="nonzero">
+                <path d="M31.464 145.996c21.238 0 28.893-19.53 28.893-43.621s-7.655-43.62-28.893-43.62S.449 78.283.449 102.374c0 24.091 9.777 43.62 31.015 43.62z" fill="#FFAB00" />
+                <path d="M26.443 46.291h8.447l1.471 15.494c-2.477 2.217-4.353 3.326-5.627 3.326s-3.15-1.109-5.627-3.326l1.336-15.494z" fill="#F4C0B1" />
+                <ellipse fill="#FBCBBD" transform="rotate(-20 17.951 37.393)" cx="17.951" cy="37.393" rx="2.351" ry="3.556" />
+                <ellipse fill="#FBCBBD" transform="scale(1 -1) rotate(-20 -170.043 0)" cx="42.022" cy="37.393" rx="2.351" ry="3.556" />
+                <path d="M30.391 52.226c3.6 0 6.1-2.146 8.255-5.497 1.726-2.687 3.487-6.142 3.487-9.933 0-8.522-5.257-15.43-11.742-15.43-6.485 0-11.742 6.908-11.742 15.43 0 3.124 1.792 5.884 3.007 8.313 2.098 4.198 4.628 7.117 8.735 7.117z" fill="#FBCBBD" />
+                <path d="M23.237 25.966c2.813-3.324 5.352-3.299 7.079-3.299 1.727 0 4.238-.357 7.536 4.565 2.199 3.28 3.504 7.603 3.917 12.968 1.565-3.846 2.348-7.115 2.348-9.807 0-4.038 1.817-10.71-5.18-12.587-6.996-1.876-8.245-12.988-8.245-16.77 0-2.52-2.648-.444-7.944 6.23-6.546 7.779-8.875 15.41-6.988 22.895C18.592 41.387 18.252 40.2 19.04 40.2c.788 0 1.385-10.91 4.197-14.234z" fill="#000" />
+            </g>
+            <path d="M143.627 227.509c1.763.831 3.26 1.073 3.466.627.206-.445-.959-1.41-2.722-2.24-1.763-.832-3.429-1.304-3.635-.859-.205.446 1.128 1.64 2.89 2.472zM125.767 229.962c-1.763.83-3.103.945-3.308.5-.206-.446.8-1.283 2.564-2.114 1.763-.831 3.583-1.41 3.789-.964.206.446-1.282 1.746-3.045 2.578z" fill="#0144AC" fill-rule="nonzero" />
+            <path fill="#FFCD81" fill-rule="nonzero" d="M141.034 227.424l3.21-12.376 7.802 1.624-6.269 12.436zM128.721 228.946l-3.93-11.472-7.278 2.238 6.704 11.49z" />
+            <path d="M140.52 225.844c-.347.625-3.12 4.77-2.764 5.612.228.541 5.165 2.884 14.811 7.028a1 1 0 0 0 1.375-.722c.46-2.285.11-3.7-1.05-4.247-1.348-.636-2.642-1.03-3.882-1.18l-2.267-1.069.508-3.038c-1.727-.442-3.018-.865-3.875-1.27-.857-.403-1.681-1.011-2.471-1.823-.026.055-.154.292-.385.709zM129.374 228.377c.347.625 3.119 4.77 2.763 5.612-.228.542-5.165 2.884-14.811 7.028a1 1 0 0 1-1.375-.722c-.46-2.285-.11-3.7 1.05-4.247 1.348-.635 2.642-1.029 3.883-1.18l2.266-1.068-.624-3.223c1.804-.32 3.135-.68 3.992-1.085.857-.404 1.645-1.06 2.366-1.968.095.152.259.436.49.853z" fill="#0055D7" fill-rule="nonzero" />
+            <g transform="translate(83.368 125.817)" fill-rule="nonzero">
+                <ellipse fill="#02C6E5" transform="matrix(-1 0 0 1 66.342 0)" cx="33.171" cy="16.024" rx="18.494" ry="15.43" />
+                <path d="M49.903 29.022c1.772.896 3.761 1.543 5.967 1.939 1.84.33 7.198.73 16.076 1.201a4 4 0 0 1 3.487 5.517 185.063 185.063 0 0 0-6.266 17.817c-2.404 8.106-5.485 20.387-9.243 36.842 1.301 1.31 2.424 2.11 3.37 2.4.945.291 2.426.291 4.443 0C86.63 54.049 96.9 31.566 98.544 27.289c2.467-6.416 4.61-11.642 1.258-15.94C96.451 7.052 66.44-1.641 58.151.403c-5.526 1.363-8.275 10.902-8.248 28.62z" fill="#01BCD9" />
+                <path d="M51.704 29.674c-1.825.398-3.84.795-6.047 1.191-1.818.326-7.075.722-15.772 1.185a4 4 0 0 0-3.404 5.703c3.478 7.365 6.125 14.11 7.942 20.235 2.25 7.59 4.644 19.008 7.18 34.255-1.3 1.31-2.424 2.11-3.37 2.4-.945.29-2.426.29-4.442 0C14.897 53.953 4.628 31.469 2.983 27.192.516 20.776-1.626 15.55 1.726 11.252 5.076 6.957 35.088-1.737 43.376.307c5.527 1.363 8.302 11.152 8.328 29.368z" fill="#02C6E5" />
+            </g>
+            <use fill="#BABFC5" fill-rule="nonzero" xlink:href="#c" transform="translate(14.677 129.972)" />
+            <g transform="translate(225.445 9.496)">
+                <mask id="g" fill="#fff">
+                    <use xlink:href="#d" />
+                </mask>
+                <use fill="url(#e)" fill-rule="nonzero" xlink:href="#d" />
+                <path fill="url(#f)" fill-rule="nonzero" opacity=".214" mask="url(#g)" transform="rotate(-45 38.751 19.65)" d="M30.25 9.072l17.118-.093-.115 21.25-17.118.093z" />
+                <rect fill="#C8CCD3" fill-rule="nonzero" x="5.284" y="7.122" width="9.394" height="3.561" rx="1.78" />
+                <rect fill="#C8CCD3" fill-rule="nonzero" x="5.284" y="30.267" width="23.484" height="3.561" rx="1.78" />
+                <rect fill="#C8CCD3" fill-rule="nonzero" x="5.284" y="44.511" width="29.942" height="3.561" rx="1.78" />
+                <rect fill="#C8CCD3" fill-rule="nonzero" x="5.284" y="37.389" width="14.677" height="3.561" rx="1.78" />
+                <ellipse stroke="#004DC3" stroke-width="2" fill="#0065FF" fill-rule="nonzero" cx="31.41" cy="12.166" rx="7.926" ry="8.012" />
+                <g fill="#FFF">
+                    <path d="M29.568 14.24l-1.821-1.84a.512.512 0 0 0-.729 0 .524.524 0 0 0 0 .736l1.84 1.859a1 1 0 0 0 1.421 0l5.17-5.226a.524.524 0 0 0 0-.736.512.512 0 0 0-.729 0l-5.152 5.208z" />
+                </g>
+            </g>
+            <g transform="translate(21.135 97.924)">
+                <mask id="j" fill="#fff">
+                    <use xlink:href="#h" />
+                </mask>
+                <use fill="url(#i)" fill-rule="nonzero" xlink:href="#h" />
+                <path fill="#D8DDE2" fill-rule="nonzero" mask="url(#j)" d="M24.926 3.11L1.686 20.442l-7.802-7.887.465-20.272 29.354-.938z" />
+            </g>
+            <path fill="#D8DDE2" fill-rule="nonzero" d="M24.926 78.674L45.14 77.6l8.845 22.92-35.138 1.866z" />
+            <g fill-rule="nonzero" filter="url(#k)" transform="translate(17.613 75.965)">
+                <use fill="#000" filter="url(#l)" xlink:href="#m" />
+                <use fill="#FFF" xlink:href="#m" />
+            </g>
+            <path fill="#EDEFF2" fill-rule="nonzero" d="M24.926 77.444l20.214-1.073 8.845 22.92-35.138 1.866z" />
+            <rect fill="#D8DDE2" fill-rule="nonzero" y="125.224" width="273" height="7.715" rx="3.858" />
+            <path fill="#C5C5C5" fill-rule="nonzero" d="M96.871 121.07h76.91v4.748h-76.91z" />
+            <path d="M104.632 65.876h60.8a6 6 0 0 1 6 6v49.787h-72.8V71.876a6 6 0 0 1 6-6z" fill="#D8D8D8" fill-rule="nonzero" />
+            <ellipse fill="#FFF" fill-rule="nonzero" cx="135.032" cy="93.77" rx="5.871" ry="5.935" />
+        </g>
+        <path fill="url(#n)" fill-rule="nonzero" d="M0 11.209h25.723v42.798H0z" transform="translate(605.106 232)" />
+        <g transform="translate(606.135 232)">
+            <g transform="translate(0 1.019)">
+                <mask id="p" fill="#fff">
+                    <use xlink:href="#o" />
+                </mask>
+                <use fill="#FE9403" fill-rule="nonzero" xlink:href="#o" />
+                <ellipse fill="#FFCA00" fill-rule="nonzero" mask="url(#p)" cx="12.347" cy="13.33" rx="10.624" ry="10.96" />
+            </g>
+            <ellipse stroke="#FFDC54" stroke-width="3" cx="12.347" cy="12.738" rx="12.347" ry="12.738" />
+            <path d="M12.52 12.382c-1.304-.35-1.723-.71-1.723-1.274 0-.645.58-1.096 1.55-1.096 1.022 0 1.402.504 1.436 1.244h1.27c-.041-1.019-.644-1.955-1.844-2.257V7.702h-1.723v1.28c-1.114.248-2.01.995-2.01 2.138 0 1.369 1.097 2.05 2.699 2.447 1.436.355 1.723.877 1.723 1.428 0 .409-.282 1.06-1.55 1.06-1.184 0-1.649-.545-1.712-1.244H9.372c.07 1.298 1.011 2.026 2.114 2.27v1.285h1.723v-1.274c1.12-.22 2.01-.889 2.01-2.103 0-1.683-1.396-2.257-2.7-2.607z" fill="#FE9201" />
+        </g>
+        <g transform="translate(513 290.162)">
+            <path fill="#D8DDE2" fill-rule="nonzero" d="M5.809 14.125h145.213v9.971H5.809z" />
+            <path d="M19.934 0h116.962c7.801 0 14.125 6.324 14.125 14.125H5.81C5.809 6.324 12.132 0 19.934 0z" fill="#EDEFF2" fill-rule="nonzero" />
+            <path fill="#ADB4BC" fill-rule="nonzero" d="M5.809 24.096H151.02L138.71 63.147H17.805z" />
+            <g transform="translate(0 11.632)">
+                <path fill="url(#q)" fill-rule="nonzero" d="M0 14.125h33.191v52.346H0z" transform="translate(87.957)" />
+                <g transform="translate(88.787)">
+                    <mask id="s" fill="#fff">
+                        <use xlink:href="#r" />
+                    </mask>
+                    <use fill="#FE9403" fill-rule="nonzero" xlink:href="#r" />
+                    <ellipse fill="#FFCA00" fill-rule="nonzero" mask="url(#s)" cx="15.592" cy="16.067" rx="13.416" ry="13.211" />
+                    <ellipse stroke="#FFDC54" stroke-width="3" cx="15.592" cy="15.353" rx="15.592" ry="15.353" />
+                    <g fill="#FE9201">
+                        <path d="M15.81 14.925c-1.647-.422-2.176-.857-2.176-1.536 0-.778.732-1.32 1.958-1.32 1.29 0 1.77.606 1.813 1.499h1.602c-.05-1.228-.812-2.357-2.328-2.72V9.282h-2.175v1.543c-1.407.3-2.538 1.2-2.538 2.578 0 1.65 1.385 2.47 3.408 2.949 1.813.428 2.176 1.057 2.176 1.72 0 .494-.356 1.28-1.958 1.28-1.494 0-2.082-.658-2.161-1.5h-1.596c.087 1.563 1.276 2.442 2.669 2.735v1.55h2.175v-1.536c1.415-.264 2.539-1.071 2.539-2.535 0-2.028-1.763-2.721-3.409-3.142z" />
+                    </g>
+                </g>
+                <rect fill="#D8DDE2" fill-rule="nonzero" y="51.515" width="156" height="104.691" rx="8" />
+                <use fill="#EDEFF2" fill-rule="nonzero" xlink:href="#t" />
+            </g>
+            <ellipse fill="#ADB4BC" fill-rule="nonzero" cx="78.83" cy="115.493" rx="19.085" ry="19.11" />
+            <path d="M76.634 118.444a6.65 6.65 0 0 1-4.443-6.275 6.643 6.643 0 0 1 6.639-6.647 6.643 6.643 0 0 1 6.638 6.647 6.65 6.65 0 0 1-4.443 6.275l1.124 6.188H75.51l1.123-6.188z" fill="#92989F" fill-rule="nonzero" />
+        </g>
+        <g>
+            <path fill="url(#n)" fill-rule="nonzero" d="M0 16.229h38.17v61.874H0z" transform="translate(536.234 271.051)" />
+            <g transform="translate(537.266 271.051)">
+                <mask id="v" fill="#fff">
+                    <use xlink:href="#u" />
+                </mask>
+                <use fill="#FE9403" fill-rule="nonzero" xlink:href="#u" />
+                <ellipse fill="#FFCA00" fill-rule="nonzero" mask="url(#v)" cx="18.053" cy="19.107" rx="15.534" ry="15.71" />
+                <ellipse stroke="#FFDC54" stroke-width="3" cx="18.053" cy="18.258" rx="18.053" ry="18.258" />
+                <g fill="#FE9201">
+                    <path d="M18.305 17.748c-1.906-.5-2.519-1.019-2.519-1.825 0-.926.848-1.571 2.267-1.571 1.495 0 2.05.721 2.1 1.783h1.855c-.058-1.46-.94-2.803-2.695-3.236v-1.86h-2.52v1.835c-1.628.357-2.938 1.427-2.938 3.066 0 1.961 1.604 2.938 3.947 3.507 2.099.51 2.519 1.257 2.519 2.046 0 .586-.412 1.52-2.268 1.52-1.73 0-2.41-.78-2.502-1.783h-1.847c.1 1.86 1.478 2.904 3.09 3.252v1.843h2.519V24.5c1.637-.314 2.939-1.273 2.939-3.014 0-2.412-2.04-3.236-3.947-3.737z" />
+                </g>
+            </g>
+        </g>
+        <path d="M741 382.5h-50M499.538 382.5H461" stroke="#DFE1E4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+</svg>

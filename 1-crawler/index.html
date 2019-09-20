@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Crawler</title>
+  <link rel="stylesheet" href="styles/reset.css">
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner container">
+      <div class="mob-nav_controls">
+        <button class="mob-nav_btn js-mob-nav-btn">
+          <svg class="mob-nav_icon mob-nav_open">
+            <use href="./images/sprite.svg#menu-icon"></use>
+          </svg>
+          <svg class="mob-nav_icon mob-nav_close hidden">
+            <use href="./images/sprite.svg#close-icon"></use>
+          </svg>
+        </button>
+        <h2 class="mob-nav_title">Menu</h2>
+      </div>
+      <div class="header-nav_list-wrap js-mob-nav">
+        <nav class="header-nav_list">
+          <a class="header-nav_logo" href="#">
+            <svg>
+              <use href="./images/logo.svg#logo-icon"></use>
+            </svg>
+          </a>
+          <ul>
+            <li><a href="#how-it-works">How it works </a></li>
+            <li><a href="#web-crawler">Web Crawler</a></li>
+            <li><a href="#benefits">Benefits</a></li>
+            <li><a href="#">SDK Console</a></li>
+            <li><a href="#">F.A.Q.</a></li>
+            <li><a href="#">Support</a></li>
+            <li><a href="#">About Us</a></li>
+          </ul>
+        </nav>
+        <div class="mob-nav_overlay hide"></div>
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <section class="grow-monetize dark">
+      <div class="grow-monetize-outer">
+        <div class="grow-monetize-inner container">
+          <div class="description">
+            <h1>Grow And Monetize Faster</h1>
+            <p>Find out how you can get the highest revenue using our revolutionary technology</p>
+          </div>
+          <img src="./images/grow-monetize-img.png" alt="">
+        </div>
+      </div>
+      <img class="wave" src="./images/grow-monetize-bottom-wave.svg" alt="">
+      <div id="how-it-works"></div>
+    </section>
+    <section class="how-it-works light">
+      <div class="container">
+        <h1>How it works</h1>
+        <p class="description">Enjoy higher monetization income with less efforts. For starting monetization of your mobile app just follow the steps:</p>
+        <ul>
+          <li class="how-it-works_integrate">
+            <div>
+              <h2>Integrate SDK</h2>
+              <p>Integrate Monetization SDK into your project</p>
+              <a href="#">
+                <span class="how-it-works_link">Read more</span>
+                <span>
+                  <svg class="how-it-works_icon">
+                    <use href="./images/sprite.svg#arrow-icon"></use>
+                  </svg>
+                </span>
+              </a>
+            </div>
+          </li>
+          <li class="how-it-works_sign">
+            <div>
+              <h2>Sign up</h2>
+              <p>Sign up in Developer Console for SDK and register your app there</p>
+              <a href="#">
+                <span class="how-it-works_link">Read more</span>
+                <span>
+                  <svg class="how-it-works_icon">
+                    <use href="./images/sprite.svg#arrow-icon"></use>
+                  </svg>
+                </span>
+              </a>
+            </div>
+          </li>
+          <li class="how-it-works_payout">
+            <div>
+              <h2>Get payouts</h2>
+              <p>Initiate payouts after monetization has been turned on</p>
+              <a href="#">
+                <span class="how-it-works_link">Read more</span>
+                <span>
+                  <svg class="how-it-works_icon">
+                    <use href="./images/sprite.svg#arrow-icon"></use>
+                  </svg>
+                </span>
+              </a>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div id="web-crawler"></div>
+    </section>
+    <section class="web-crawler light">
+      <div class="container">
+        <h1>Web crawler</h1>
+        <p class="description">This is how we generate revenue for you using web crawler technologies. Below you can find the most important areas of application:</p>
+        <picture>
+          <source srcset="images/web-crawler.svg" media="(min-width: 768px)">
+          <img src="images/web-crawler-mobile.svg" alt="…">
+        </picture>
+      </div>
+      <div class="web-crawler_tabs js-tabs">
+        <div class="container">
+          <ul class="tab-toggler-list js-tab-toggler-list">
+            <li class="tab-toggler js-tab-toggler active">
+              <a href="#use-cases">
+                <h2>Use Cases</h2>
+              </a>
+            </li>
+            <li class="tab-toggler js-tab-toggler">
+              <a href="#monetization-service">
+                <h2>Our Monetization Service</h2>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <ul class="tab-content-list js-tab-content-list">
+          <li class="tab-content container js-tab-content active" id="use-cases">
+            <h3>Use Cases</h3>
+            <p>Web crawler helps to collect data necessary for application areas, which require a large amount of structured real-time information from websites or search engines</p>
+            <picture>
+              <source srcset="images/use-cases-desktop.svg" media="(min-width: 768px)">
+              <img src="images/use-cases-mobile.svg" alt="…">
+            </picture>
+          </li>
+          <li class="tab-content container js-tab-content" id="monetization-service">
+            <h3>Our monetization service
+            </h3>
+            <p>We provide web crawling providers with connection pool. This pool is being used for proxification of crawler traffic. After that we reallocate part of usage fees to android developers as their monetization income</p>
+            <picture>
+              <source srcset="images/monetization-service-desktop.svg" media="(min-width: 768px)">
+              <img src="images/monetization-service-mobile.svg" alt="…">
+            </picture>
+          </li>
+        </ul>
+      </div>
+      </div>
+      <div id="benefits"></div>
+    </section>
+    <section class="benefits dark">
+      <img class="benefits-top-wave wave" src="./images/benefits-top-wave.svg" alt="">
+      <div class="benefits-outer">
+        <div class="container">
+          <h1>Benefits</h1>
+          <p class="description">This is how we generate revenue for you using web crawler technologies. Below you can find the most important areas of application:</p>
+          <ul>
+            <li>
+              <div>
+                <img src="./images/benefit-1.svg">
+              </div>
+              <p>It can be used together with traditional monetization methods for mobile apps like in-app ads
+              </p>
+            </li>
+            <li>
+              <div>
+                <img src="./images/benefit-2.svg">
+              </div>
+              <p>It can be used to replace in-app ads, since it garantees competitive revenue and does not have a negative impacts on retention
+              </p>
+            </li>
+            <li>
+              <div>
+                <img src="./images/benefit-3.svg">
+              </div>
+              <p>It can be used to replace in-app ads, since it garantees competitive revenue and does not have a negative impacts on retention
+              </p>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <img class="wave" src="./images/benefits-bottom-wave.svg" alt="">
+    </section>
+    <section class="get-in-touch light">
+      <div class="container get-in-touch-inner">
+        <form action="#" method="post">
+          <h1>Get In Touch</h1>
+          <div>
+            <input type="text" placeholder="First name">
+            <input type="text" placeholder="Last name">
+          </div>
+          <div>
+            <input type="email" placeholder="Email">
+            <input type="text" placeholder="Mobile app name">
+          </div>
+          <textarea placeholder="Your message.."></textarea>
+          <button>Submit</button>
+        </form>
+      </div>
+    </section>
+  </main>
+  <footer class="footer">
+    <div class="footer-inner container">
+      <div class="footer-nav_list-wrap">
+        <nav class="footer-nav_list">
+          <a class="footer-nav_logo" href="#">
+            <svg class="footer-contacts_icon">
+              <use href="./images/logo.svg#logo-icon"></use>
+            </svg>
+          </a>
+          <ul>
+            <li><a href="#how-it-works">How it works </a></li>
+            <li><a href="#web-crawler">Web Crawler</a></li>
+            <li><a href="#benefits">Benefits</a></li>
+            <li><a href="#sdk-console">SDK Console</a></li>
+          </ul>
+          <ul>
+            <li><a href="#faq">F.A.Q.</a></li>
+            <li><a href="#support">Support</a></li>
+            <li><a href="#about-us">About Us</a></li>
+          </ul>
+        </nav>
+        <div class="footer-contacts">
+          <ul>
+            <li>
+              <a href="#">
+                <span>
+                  <svg class="footer-contacts_icon">
+                    <use href="./images/sprite.svg#phone-icon"></use>
+                  </svg>
+                </span>
+                <span class="footer-contacts_content">1234-456-7890</span>
+              </a>
+            </li>
+            <li>
+              <a href="mailto: hailey.rowe@yahoo.com">
+                <span>
+                  <svg class="footer-contacts_icon">
+                    <use href="./images/sprite.svg#email-icon"></use>
+                  </svg>
+                </span>
+                <span class="footer-contacts_content">hailey.rowe@yahoo.com</span>
+              </a>
+            </li>
+          </ul>
+          <address>
+            <span>
+                <svg class="footer-contacts_icon">
+                  <use href="./images/sprite.svg#address-icon"></use>
+                </svg>
+              </span>
+            <span class="footer-contacts_address">
+              <span class="footer-contacts_content">San Francisco. CA 24158</span>
+              <span class="footer-contacts_info">500 Terry Francois Street</span>
+            </span>
+          </address>
+        </div>
+      </div>
+      <ul class="footer-share_list">
+        <li>
+          <a href="#">
+            <svg class="footer-share_icon">
+              <use href="./images/sprite.svg#twitter-icon"></use>
+            </svg>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <svg class="footer-share_icon">
+              <use href="./images/sprite.svg#linkedin-icon"></use>
+            </svg>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <svg class="footer-share_icon">
+              <use href="./images/sprite.svg#facebook-icon"></use>
+            </svg>
+          </a>
+        </li>
+      </ul>
+      <div class="copyright">2019 &copy; Company name All Right Reserved</div>
+    </div>
+  </footer>
+  <script src="./script.js"></script>
+</body>
+</html>

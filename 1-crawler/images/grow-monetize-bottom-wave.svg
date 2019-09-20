@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" viewBox="0 0 1440 168" xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <g fill-rule="evenodd" fill="none" id="BG">
+            <g id="Group-28" fill-rule="nonzero">
+                <g id="svg_1">
+                    <path opacity="0.259301" fill="#327EF9" id="Rectangle" d="m0,0l1440,0l0,80.19214c-144.92035,-60.0937 -393.33612,-49.15775 -745.24731,32.80786c-351.91118,81.96561 -583.49541,71.02965 -694.75269,-32.80786l0,-80.19214z"/>
+                    <path fill="#0065FF" id="Rectangle" d="m0,0l1440,0l0,81c-144.92035,-80.63227 -393.33612,-79.96561 -745.24731,2c-351.91118,81.96561 -583.49541,81.96561 -694.75269,0l0,-83z"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

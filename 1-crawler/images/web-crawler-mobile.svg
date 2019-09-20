@@ -1,0 +1,156 @@
+<svg viewBox="0 0 286 608" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="80.814%" y1="9.497%" x2="9.646%" y2="80.252%" id="b">
+            <stop stop-color="#EFF0F2" offset="0%"/>
+            <stop stop-color="#EFF0F2" offset="100%"/>
+        </linearGradient>
+        <circle id="a" cx="50" cy="50" r="50"/>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="d">
+            <stop stop-color="#FFAB00" offset="0%"/>
+            <stop stop-color="#D79000" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="26.837%" x2="50%" y2="100%" id="e">
+            <stop stop-color="#0065FF" offset="0%"/>
+            <stop stop-color="#004CC0" offset="100%"/>
+        </linearGradient>
+        <rect id="f" width="41.6" height="51.611" rx="10"/>
+        <linearGradient x1="50%" y1="92.56%" x2="50%" y2="1.03%" id="g">
+            <stop stop-opacity="0" offset="0%"/>
+            <stop stop-opacity=".207" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="20.842%" y1="30.631%" x2="50%" y2="100%" id="j">
+            <stop stop-color="#F5F6F7" offset="0%"/>
+            <stop stop-color="#E8EAED" offset="100%"/>
+        </linearGradient>
+        <rect id="i" width="48.64" height="60.531" rx="10"/>
+        <path d="M16.936 0h-.209C7.465.101.007 7.727 0 17.103c0 4.524 2.365 7.936 4.652 11.336 2.065 3.029 4.012 5.9 4.339 9.444.04.502.456.888.954.886H23.77a.96.96 0 0 0 .902-.886c.274-3.571 2.221-6.442 4.299-9.47 2.274-3.347 4.64-6.813 4.64-11.337C33.59 7.731 26.167.13 16.935 0zM12.05 8.505a11.863 11.863 0 0 0-4.98 5.794.954.954 0 0 1-.888.608.854.854 0 0 1-.353-.08.933.933 0 0 1-.528-.514.95.95 0 0 1 .006-.742 13.747 13.747 0 0 1 5.789-6.732.944.944 0 0 1 .992-.05.968.968 0 0 1 .498.87.966.966 0 0 1-.536.846z" id="l"/>
+        <linearGradient x1="37.627%" y1="39.04%" x2="67.664%" y2="61.261%" id="m">
+            <stop stop-color="#FFAB00" offset="0%"/>
+            <stop stop-color="#FFC44B" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="o">
+            <stop stop-color="#EFF0F2" offset="0%"/>
+            <stop stop-color="#F7F6F6" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="p">
+            <stop stop-color="#4082EF" offset="0%"/>
+            <stop stop-color="#2F6BC6" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(94)">
+            <mask id="c" fill="#fff">
+                <use xlink:href="#a"/>
+            </mask>
+            <use fill="url(#b)" fill-rule="nonzero" xlink:href="#a"/>
+            <g mask="url(#c)">
+                <g transform="translate(19.017 2.468)" fill-rule="nonzero">
+                    <path d="M32.312 160c22.126 0 30.1-22.283 30.1-49.771s-7.974-49.771-30.1-49.771C10.185 60.458 0 82.741 0 110.229S10.185 160 32.312 160z" fill="#FFAB00"/>
+                    <path d="M27.08 47.634h8.802l1.532 15.942C34.833 65.858 32.879 67 31.552 67c-1.328 0-3.282-1.141-5.863-3.423l1.392-15.942z" fill="#F4C0B1"/>
+                    <ellipse fill="#FBCBBD" transform="rotate(-20 18.234 38.477)" cx="18.234" cy="38.477" rx="2.446" ry="3.665"/>
+                    <ellipse fill="#FBCBBD" transform="scale(1 -1) rotate(-20 -174.903 0)" cx="43.312" cy="38.477" rx="2.446" ry="3.665"/>
+                    <path d="M31.194 53.74c3.75 0 6.356-2.208 8.6-5.657 1.799-2.764 3.633-6.319 3.633-10.22 0-8.77-5.477-15.878-12.233-15.878s-12.233 7.108-12.233 15.878c0 3.214 1.867 6.054 3.132 8.554 2.187 4.32 4.822 7.323 9.101 7.323z" fill="#FBCBBD"/>
+                    <path d="M23.741 26.72c2.93-3.421 5.576-3.396 7.375-3.396 1.799 0 4.416-.367 7.851 4.697 2.29 3.376 3.65 7.824 4.08 13.344 1.632-3.957 2.447-7.32 2.447-10.09 0-4.155 1.893-11.022-5.396-12.953-7.289-1.93-8.59-13.364-8.59-17.255 0-2.594-2.759-.457-8.276 6.41-6.82 8.004-9.247 15.857-7.28 23.558 2.95 11.552 2.595 10.33 3.416 10.33.821 0 1.443-11.226 4.373-14.646z" fill="#000"/>
+                </g>
+                <path stroke="url(#d)" d="M19.58 79.39l-2.164 13.003 7.784 15.518" transform="translate(18.405 5.521)"/>
+                <path stroke="url(#d)" transform="matrix(-1 0 0 1 106.563 5.521)" d="M41.557 79.39l-.576 13.36 6.196 15.161"/>
+            </g>
+        </g>
+        <rect x=".5" y=".5" width="285" height="84" rx="8" fill="#FFF" fill-rule="nonzero" stroke="#DFE1E4" transform="translate(0 142)"/>
+        <text font-family="Work Sans, sans-serif" font-size="14" font-weight="400" fill="#000" transform="translate(0 142)">
+            <tspan x="12" y="53">Intellectual Property</tspan> <tspan x="12" y="69">Protection</tspan>
+        </text>
+        <g fill-rule="nonzero" transform="translate(226 154)">
+            <path d="M45.537 10.93c-6.948-.573-13.453-3.56-18.38-8.515L25.896 1.08C25.389.572 24.695.318 24 .318c-.695 0-1.39.254-1.895.762l-1.263 1.335C15.916 7.37 9.411 10.357 2.463 10.929 1.073 11.056 0 12.2 0 13.598v7.688c0 16.14 8.716 31.136 22.674 39.079.379.254.884.317 1.326.317.442 0 .884-.127 1.326-.317C39.284 52.422 48 37.426 48 21.286v-7.688c0-1.398-1.074-2.542-2.463-2.669z" fill="#0065FF"/>
+            <ellipse stroke="#0065FF" stroke-width="2" fill="#FFF" cx="24" cy="24.146" rx="10.105" ry="10.167"/>
+            <path d="M24 15.885c-4.532 0-8.21 3.701-8.21 8.26 0 4.56 3.678 8.261 8.21 8.261 4.532 0 8.21-3.7 8.21-8.26s-3.678-8.26-8.21-8.26zm0 2.479a2.467 2.467 0 0 1 2.463 2.478c0 1.37-1.1 2.478-2.463 2.478a2.467 2.467 0 0 1-2.463-2.478c0-1.372 1.1-2.478 2.463-2.478zm0 11.73a5.903 5.903 0 0 1-4.926-2.66c.024-1.644 3.284-2.545 4.926-2.545 1.634 0 4.902.9 4.926 2.544A5.903 5.903 0 0 1 24 30.093z" fill="#61A0FF"/>
+        </g>
+        <rect x=".5" y=".5" width="285" height="84" rx="8" fill="#FFF" fill-rule="nonzero" stroke="#DFE1E4" transform="translate(0 269)"/>
+        <text font-family="Work Sans, sans-serif" font-size="14" font-weight="400" fill="#000" transform="translate(0 269)">
+            <tspan x="12" y="68">Marketing intelligence</tspan>
+        </text>
+        <g transform="translate(0 396)">
+            <rect stroke="#DFE1E4" fill="#FFF" fill-rule="nonzero" x=".5" y=".5" width="285" height="84" rx="8"/>
+            <g transform="scale(-1 1) rotate(31 -150.454 -449.217)">
+                <g transform="translate(.307 .555)">
+                    <mask id="h" fill="#fff">
+                        <use xlink:href="#f"/>
+                    </mask>
+                    <use fill="#DFE1E5" fill-rule="nonzero" xlink:href="#f"/>
+                    <path fill="url(#g)" fill-rule="nonzero" opacity=".214" mask="url(#h)" transform="rotate(-45 36.129 17.988)" d="M28.185 8.143l15.652.19.236 19.5-15.652-.19z"/>
+                </g>
+                <rect fill="#C8CCD3" fill-rule="nonzero" x="4.511" y="7.192" width="8.96" height="3.186" rx="1.593"/>
+                <rect fill="#C8CCD3" fill-rule="nonzero" x="5.258" y="28.48" width="21.76" height="3.186" rx="1.593"/>
+                <rect fill="#C8CCD3" fill-rule="nonzero" x="4.567" y="41.376" width="28.16" height="3.186" rx="1.593"/>
+                <rect fill="#C8CCD3" fill-rule="nonzero" x="4.95" y="34.773" width="13.44" height="3.186" rx="1.593"/>
+                <ellipse stroke="#DFE1E5" stroke-width="2" fill="#E8EAED" fill-rule="nonzero" cx="29.231" cy="12.043" rx="7.36" ry="7.327"/>
+                <path d="M27.464 14.063l-1.737-1.673a.501.501 0 0 0-.695 0 .464.464 0 0 0 0 .669l1.739 1.674a1 1 0 0 0 1.387 0L33.073 10a.464.464 0 0 0 0-.67.501.501 0 0 0-.695 0l-4.914 4.732z" fill="#FFF"/>
+            </g>
+            <g transform="translate(212.16 10)">
+                <mask id="k" fill="#fff">
+                    <use xlink:href="#i"/>
+                </mask>
+                <use fill="url(#j)" fill-rule="nonzero" xlink:href="#i"/>
+                <path fill="url(#g)" fill-rule="nonzero" opacity=".214" mask="url(#k)" transform="rotate(-45 42.243 21.097)" d="M32.958 9.582l18.52.041.05 22.99-18.519-.042z"/>
+                <rect fill="#C8CCD3" fill-rule="nonzero" x="5.76" y="7.646" width="10.24" height="3.823" rx="1.912"/>
+                <rect fill="#C8CCD3" fill-rule="nonzero" x="5.76" y="32.496" width="25.6" height="3.823" rx="1.912"/>
+                <rect fill="#C8CCD3" fill-rule="nonzero" x="5.76" y="47.788" width="32.64" height="3.823" rx="1.912"/>
+                <rect fill="#C8CCD3" fill-rule="nonzero" x="5.76" y="40.142" width="16" height="3.823" rx="1.912"/>
+                <ellipse stroke="#21873D" stroke-width="2" fill="#34A853" fill-rule="nonzero" cx="34.24" cy="13.062" rx="8.64" ry="8.602"/>
+                <g fill="#FFF">
+                    <path d="M32.233 15.29l-1.986-1.978a.563.563 0 0 0-.794 0 .558.558 0 0 0 0 .791l2.074 2.065a1 1 0 0 0 1.411 0l5.705-5.68a.558.558 0 0 0 0-.79.563.563 0 0 0-.794 0l-5.616 5.591z"/>
+                </g>
+            </g>
+        </g>
+        <text font-family="Work Sans, sans-serif" font-size="14" font-weight="400" fill="#000" transform="translate(0 396)">
+            <tspan x="12" y="70">Advertisement verification</tspan>
+        </text>
+        <rect x=".5" y=".5" width="285" height="84" rx="8" fill="#FFF" fill-rule="nonzero" stroke="#DFE1E4" transform="translate(0 523)"/>
+        <text font-family="Work Sans, sans-serif" font-size="14" font-weight="400" fill="#000" transform="translate(0 523)">
+            <tspan x="12" y="53">Analyze of competitor’s</tspan> <tspan x="12" y="69">global products</tspan>
+        </text>
+        <g transform="translate(220 280)">
+            <rect fill="#CDD0D5" x="20.167" y="50.279" width="14.667" height="4.24" rx="1.56"/>
+            <rect fill="#CDD0D5" x="21.389" y="55.731" width="12.222" height="4.24" rx="1.47"/>
+            <path d="M31.41 59.972a.93.93 0 0 0-.927.796 2.267 2.267 0 0 1-1.287.326h-2.82c-.451.023-.899-.09-1.287-.326a.942.942 0 0 0-1.004-.792.948.948 0 0 0-.863.949c0 1.2 1.288 2.075 3.193 2.075h2.781c1.854 0 3.193-.874 3.193-2.075a.96.96 0 0 0-.289-.688.933.933 0 0 0-.69-.265z" fill="#CDD0D5"/>
+            <g transform="translate(10.389 10.904)">
+                <mask id="n" fill="#fff">
+                    <use xlink:href="#l"/>
+                </mask>
+                <use fill="#FFAB00" fill-rule="nonzero" xlink:href="#l"/>
+                <path d="M19.556-2.257c6.518 17.628 1.018 29.823-16.5 36.584-17.519 6.76-7.13 9.112 31.166 7.055l5.857-17.697-1.681-16.043-11.51-9.9h-7.332z" fill="url(#m)" fill-rule="nonzero" mask="url(#n)"/>
+            </g>
+            <path d="M36.53 11.381c.15.08.319.124.49.129a.988.988 0 0 0 .836-.476l3.57-5.984a.911.911 0 0 0 .096-.714.942.942 0 0 0-.455-.57.983.983 0 0 0-.74-.1.95.95 0 0 0-.587.446l-3.555 5.985a.933.933 0 0 0 .345 1.284zM51.206 13.797a.954.954 0 0 0-1.298-.342l-6.05 3.536a.965.965 0 0 0-.437 1.074.95.95 0 0 0 .904.714.913.913 0 0 0 .48-.132l6.05-3.536a.97.97 0 0 0 .35-1.315zM8.188 26.048H.978c-.54 0-.978.407-.978.909s.438.908.978.908h7.21c.54 0 .979-.406.979-.908s-.438-.909-.979-.909zM54.022 26.048h-7.21c-.54 0-.979.407-.979.909s.438.908.979.908h7.21c.54 0 .978-.406.978-.908s-.438-.909-.978-.909zM11.479 18.292a.958.958 0 0 0 .1-.732.944.944 0 0 0-.45-.582L5.09 13.455a.951.951 0 0 0-1.296.342.972.972 0 0 0-.095.73.958.958 0 0 0 .445.584l6.039 3.536a.91.91 0 0 0 .48.132.944.944 0 0 0 .816-.487zM17.148 11.034c.172.29.49.47.834.476.171-.005.339-.05.49-.129a.935.935 0 0 0 .344-1.284l-3.56-5.985a.949.949 0 0 0-.587-.445.978.978 0 0 0-.737.099.942.942 0 0 0-.454.57.913.913 0 0 0 .097.714l3.573 5.984zM27.194 9.087a.892.892 0 0 0 .649-.284.999.999 0 0 0 .268-.686V.97c0-.536-.41-.97-.917-.97-.506 0-.916.434-.916.97v7.147c0 .535.41.97.916.97z" fill="#FFC44B"/>
+        </g>
+        <g>
+            <path d="M143.61 108v21.06" stroke="#E0E2E6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+            <path fill="#DFE1E4" fill-rule="nonzero" d="M143.697 133.646l-7-9h14z"/>
+        </g>
+        <g>
+            <path d="M143.61 235v21.06" stroke="#E0E2E6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+            <path fill="#DFE1E4" fill-rule="nonzero" d="M143.697 260.646l-7-9h14z"/>
+        </g>
+        <g>
+            <path d="M143.61 362v21.06" stroke="#E0E2E6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+            <path fill="#DFE1E4" fill-rule="nonzero" d="M143.697 387.646l-7-9h14z"/>
+        </g>
+        <g>
+            <path d="M143.61 489v21.06" stroke="#E0E2E6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+            <path fill="#DFE1E4" fill-rule="nonzero" d="M143.697 514.646l-7-9h14z"/>
+        </g>
+        <g>
+            <g transform="translate(209 534)">
+                <rect fill="#DFE1E5" fill-rule="nonzero" width="48.231" height="61.845" rx="10"/>
+                <rect fill="url(#o)" fill-rule="nonzero" y=".631" width="48.231" height="59.951" rx="10"/>
+                <path d="M34.61 26.303c-.97-4.931-5.297-8.633-10.495-8.633-4.126 0-7.71 2.344-9.495 5.774-4.298.457-7.64 4.102-7.64 8.518 0 4.731 3.842 8.576 8.568 8.576h18.563c3.94 0 7.139-3.202 7.139-7.146 0-3.774-2.927-6.832-6.64-7.09z" fill="#FAA606"/>
+                <path d="M34.61 25.04c-.97-4.93-5.297-8.632-10.495-8.632-4.126 0-7.71 2.344-9.495 5.774-4.298.457-7.64 4.102-7.64 8.518 0 4.731 3.842 8.576 8.568 8.576h18.563c3.94 0 7.139-3.202 7.139-7.147 0-3.773-2.927-6.831-6.64-7.089z" fill="#FABB06"/>
+                <g transform="translate(16.5 17.039)" fill-rule="nonzero">
+                    <path d="M3.808.635L20.272.597a2.83 2.83 0 0 1 2.838 2.83c0 1.569-1.27 2.841-2.838 2.845L3.808 6.31 2.679 5.049H0V1.893h2.686L3.808.631v.004z" transform="rotate(45 -16.018 52.295)" fill="url(#p)"/>
+                    <path d="M17.526 35.34C7.888 35.34.074 27.57.074 17.985.074 8.401 7.888.631 17.526.631c9.639 0 17.452 7.77 17.452 17.354 0 9.585-7.813 17.355-17.452 17.355zm0-5.68c6.484 0 11.74-5.227 11.74-11.675 0-6.447-5.256-11.674-11.74-11.674s-11.74 5.227-11.74 11.674c0 6.448 5.256 11.675 11.74 11.675z" fill="#3775D9"/>
+                    <path d="M17.526 34.709c-9.638 0-17.452-7.77-17.452-17.355C.074 7.77 7.888 0 17.526 0c9.639 0 17.452 7.77 17.452 17.354 0 9.585-7.813 17.355-17.452 17.355zm0-5.68c6.484 0 11.74-5.227 11.74-11.675 0-6.447-5.256-11.674-11.74-11.674s-11.74 5.227-11.74 11.674c0 6.448 5.256 11.675 11.74 11.675z" fill="#4285F4"/>
+                    <ellipse fill="#4285F4" opacity=".138" cx="17.769" cy="17.67" rx="12.058" ry="11.99"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
